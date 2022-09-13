@@ -14,7 +14,6 @@ CCTV1-综合,http://39.135.138.59:18890/PLTV/88888910/224/3221225630/index.m3u8$
 CCTV1-综合,http://39.134.116.30:8080/PLTV/88888910/224/3221225630/index.m3u8$1280*720
 
 CCTV2-财经,http://111.20.33.93/PLTV/88888893/224/3221226224/index.m3u8$超清1080P
-CCTV2-财经,http://111.63.117.13:6060/030000001000/G_CCTV-2/G_CCTV-2.m3u8$超清1080P
 CCTV2-财经,http://39.134.32.102:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT$超清1080P
 CCTV2-财经,http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8$超清1080P
 CCTV2-财经,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8$超清1080P
@@ -187,17 +186,20 @@ CETV1-教育综合,http://111.20.35.103:6610/yinhe/2/ch00000090990000001063/inde
 CETV1-教育综合,http://117.148.129.9/PLTV/88888888/224/3221232842/index.m3u8
 CETV1-教育综合,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225563/2/index.m3u8?fmt=ts2hls
 CETV1-教育综合,http://112.17.40.218/PLTV/88888888/224/3221231714/index.m3u8
+
 CETV2-继续教育,https://txycsbl.centv.cn/zb/0728cetv2.m3u8$超清1080P
 CETV2-继续教育,http://111.20.35.103:6610/yinhe/2/ch00000090990000001064/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 CETV2-继续教育,http://117.148.129.9/PLTV/88888888/224/3221231607/index.m3u8
 CETV2-继续教育,http://117.148.179.162/PLTV/88888888/224/3221231607/index.m3u8
 CETV2-继续教育,http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
 CETV2-继续教育,http://txycsbl.centv.cn/zb/0728cetv2.m3u8
+
 CETV3-人文记录,https://txycsbl.centv.cn/zb/0728cetv3.m3u8$超清1080P
 CETV3-人文记录,http://111.20.35.103:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 CETV3-人文记录,http://111.20.33.93/PLTV/88888893/224/3221226226/index.m3u8
 CETV3-人文记录,http://txycsbl.centv.cn/zb/0104cetv3.m3u8
 CETV3-人文记录,http://txycsbl.centv.cn/zb/0728cetv3.m3u8
+
 CETV4-空中课堂,https://txycsbl.centv.cn/zb/0728cetv4.m3u8$超清1080P
 CETV4-空中课堂,http://39.135.138.58:18890/PLTV/88888888/224/3221225937/index.m3u8
 CETV4-空中课堂,http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-jiaoyutv4/1.m3u8
