@@ -1,5 +1,4 @@
 🗼央视频道,#genre#
-CCTV1-综合,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000021973/1.m3u8?Contentid=1000000001000021973&livemode=1&stbId=3&channel-id=ystenlive$超清1080P
 CCTV1-综合,http://111.20.33.93/PLTV/88888893/224/3221226010/index.m3u8$超清1080P
 CCTV1-综合,http://111.40.196.25/PLTV/88888888/224/3221225548/index.m3u8$超清1080P
 CCTV1-综合,http://39.134.32.102:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT$超清1080P
@@ -8,7 +7,6 @@ CCTV1-综合,http://39.134.67.110/PLTV/88888888/224/3221225816/index.m3u8$超清
 CCTV1-综合,http://39.134.66.163/PLTV/88888888/224/3221225816/index.m3u8$超清1080P
 CCTV1-综合,http://222.175.159.226:808/hls/1/index.m3u8$超清1080P
 CCTV1-综合,http://111.40.196.27/PLTV/88888888/224/3221225548/index.m3u8$1280*720
-CCTV1-综合,http://111.40.196.9/PLTV/88888888/224/3221225548/index.m3u8$1280*720
 CCTV1-综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225630/index.m3u8$1280*720
 CCTV1-综合,http://111.13.42.238/PLTV/88888888/224/3221226564/1.m3u8?icpid=88888888&from=1&hms_devid=461$1280*720
 CCTV1-综合,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225630/index.m3u8$1280*720
@@ -16,7 +14,6 @@ CCTV1-综合,http://111.13.42.238/PLTV/88888888/224/3221226563/1.m3u8?icpid=8888
 CCTV1-综合,http://39.135.138.59:18890/PLTV/88888910/224/3221225630/index.m3u8$1280*720
 CCTV1-综合,http://39.134.116.30:8080/PLTV/88888910/224/3221225630/index.m3u8$1280*720
 
-CCTV2-财经,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000012442/1.m3u8?Contentid=1000000001000012442&livemode=1&stbId=3&channel-id=ystenlive$超清1080P
 CCTV2-财经,http://111.20.33.93/PLTV/88888893/224/3221226224/index.m3u8$超清1080P
 CCTV2-财经,http://111.63.117.13:6060/030000001000/G_CCTV-2/G_CCTV-2.m3u8$超清1080P
 CCTV2-财经,http://39.134.32.102:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT$超清1080P
@@ -26,7 +23,6 @@ CCTV2-财经,http://39.135.138.59:18890/PLTV/88888910/224/3221225619/index.m3u8$
 CCTV2-财经,http://222.175.159.226:808/hls/2/index.m3u8$超清1080P
 CCTV2-财经,http://117.148.179.156/PLTV/88888888/224/3221232362/index.m3u8$1280*720
 
-CCTV3-综艺,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000011218/1.m3u8?Contentid=1000000001000011218&livemode=1&stbId=3&channel-id=ystenlive$超清1080P
 CCTV3-综艺,http://111.20.33.93/PLTV/88888893/224/3221226397/index.m3u8$超清1080P
 CCTV3-综艺,http://111.40.196.25/PLTV/88888888/224/3221225588/index.m3u8$超清1080P
 CCTV3-综艺,http://39.134.66.46/PLTV/88888888/224/3221225799/index.m3u8$超清1080P
@@ -36,7 +32,6 @@ CCTV3-综艺,http://39.134.67.110/PLTV/88888888/224/3221225799/index.m3u8$超清
 CCTV3-综艺,http://111.40.196.9/PLTV/88888888/224/3221225588/index.m3u8$1280*720
 CCTV3-综艺,http://111.40.196.29/PLTV/88888888/224/3221225588/index.m3u8$1280*720
 
-CCTV4-中文国际,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000002000031664/1.m3u8?Contentid=1000000002000031664&livemode=1&stbId=3&channel-id=ystenlive$超清1080P
 CCTV4-中文国际,http://111.20.33.93/TVOD/88888893/224/3221226223/index.m3u8$超清1080P
 CCTV4-中文国际,http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8$超清1080P
 CCTV4-中文国际,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8$超清1080P
@@ -919,18 +914,11 @@ WEN鞋评+WEN鞋评：阿马鲁实战,http://111.62.156.15/tx.flv.huya.com/src/1
 纪实人文,http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
 纪实人文,http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
 
-求索动物,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=no
-求索纪录,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=no
-求索科学,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=no
-求索生活,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=no
-求索动物,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=no
 求索动物,http://111.11.123.49:6610/000000001000/6000000002000010046/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220429143132239553&channel-id=wasusyt&Contentid=6000000002000010046
 求索动物,http://111.11.123.49:6610/000000001000/6000000002000010046/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
 求索纪录,http://111.11.123.49:6610/000000001000/6000000002000032052/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220429142822239451&channel-id=wasusyt&Contentid=6000000002000032052
-求索纪录,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=no
-求索科学,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=no
 求索科学,http://111.11.123.49:6610/000000001000/6000000002000032344/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220429143356239632&channel-id=wasusyt&Contentid=6000000002000032344
-求索生活,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=no
+
 大千世界,http://111.11.123.49:6610/000000001000/7284663355496915828/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218520220429143755267989&channel-id=wasusyt&Contentid=7284663355496915828
 金鹰纪实,http://124.232.231.246:6610/000000001001/201600020008/index.m3u8?A$电信720P
 探索记录,http://111.11.123.49:6610/000000001000/5359008697329269813/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220502083144452799&channel-id=wasusyt&Contentid=5359008697329269813
