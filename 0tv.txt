@@ -486,8 +486,8 @@ TVB J2,https://j3.lhlh.app/mv.m3u8$高清720P
 澳视Macau,http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8$高清720P
 澳视Macau,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8$高清720P
 澳视Macau,http://61.244.22.4/ch3/ch3.live/index.m3u8$高清720P
-澳视澳門,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8$高清720P
-澳视澳門,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8$高清720P
+澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8$高清720P
+澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8$高清720P
 澳门莲花,http://nettvpro.live/hls/lotustv.php$高清1080P
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8$高清1080P
 澳门莲花,https://p.ggiptv.com/v/macaulotustv.php$高清720P
