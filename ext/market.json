@@ -333,7 +333,7 @@
         "name": "电视应用",
         "url": "",
         "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/tv.jpg",
-        "version": "TV&Mobile"
+        "version": "📺"
       },
       {
         "name": "MyTV高核版",
@@ -351,7 +351,7 @@
         "name": "手机应用",
         "url": "",
         "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/mobile.jpg",
-        "version": "Mobile"
+        "version": "📱"
       },
       {
         "name": "LX Music",
