@@ -332,7 +332,7 @@
       {
         "name": "电视应用",
         "url": "",
-        "icon": "",
+        "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/tv.jpg",
         "version": "TV&Mobile"
       },
       {
@@ -350,7 +350,7 @@
       {
         "name": "手机应用",
         "url": "",
-        "icon": "",
+        "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/mobile.jpg",
         "version": "Mobile"
       },
       {
