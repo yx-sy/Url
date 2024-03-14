@@ -319,9 +319,9 @@
       },
       {
         "name": "香雅情",
-        "url": "https://agit.ai/yxsy/Url/raw/branch/master/local/xiangyaqing.zip",
+        "url": "https://agit.ai/yxsy/Url/raw/branch/master/local/xyq.zip",
         "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/local.jpg",
-        "copy": "file://Download/xiangyaqing/xiangyaqing.json",
+        "copy": "file://Download/xyq/xyq.json",
         "version": "0314"
       }
     ]
