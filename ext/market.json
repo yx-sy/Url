@@ -21,10 +21,10 @@
         "version": "v8a"
       },
       {
-        "name": "Mbox",
-        "url":"https://github.moeyy.xyz/https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile/releases/download/v1.1.0/MBox_v1.1.0_release_20240201.apk",
-        "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/tbq.png",
-        "version": "v1.1.0"
+        "name": "TVBox",  //  t版
+        "url":"https://github.moeyy.xyz/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240313-1123/TVBox_takagen99_20240313-1123.apk",
+        "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/tbt.png",
+        "version": "20240313-1123"
       },
       {
         "name": "TVBox",  //  q版
@@ -33,10 +33,10 @@
         "version": "20231105-0923"
       },
       {
-        "name": "TVBox",  //  t版
-        "url":"https://github.moeyy.xyz/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240313-1123/TVBox_takagen99_20240313-1123.apk",
-        "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/tbt.png",
-        "version": "20240313-1123"
+        "name": "Mbox",
+        "url":"https://github.moeyy.xyz/https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile/releases/download/v1.1.0/MBox_v1.1.0_release_20240201.apk",
+        "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/tbq.png",
+        "version": "v1.1.0"
       }
     ]
   },
@@ -330,7 +330,7 @@
     "name": "精品应用",
     "list": [
       {
-        "name": "电视应用",
+        "name": "电视应用",  //电视App
         "url": "",
         "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/tv.jpg",
         "version": "📺"
@@ -348,7 +348,7 @@
         "version": "v1.6.8"
       },
       {
-        "name": "手机应用",
+        "name": "手机应用",  //手机app
         "url": "",
         "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/mobile.png",
         "version": "📱"
