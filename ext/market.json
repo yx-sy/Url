@@ -310,18 +310,32 @@
     "name": "本地接口",
     "list": [
       {
-        "name": "饭太硬",
-        "url": "https://agit.ai/yxsy/Url/raw/branch/master/local/fty.zip",
-        "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/wogg.png",
-        "copy": "file://Download/fty/fty.json",
-        "version": "0309"
+        "name": "米饭香",
+        "url": "https://agit.ai/yxsy/Url/raw/branch/master/local/local.zip",
+        "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/local.png",
+        "copy": "file://Download/local/local.json",
+        "version": "三合一"
       },
       {
-        "name": "香雅情",
+        "name": "小『米』",
+        "url": "https://agit.ai/yxsy/Url/raw/branch/master/local/fty.zip",
+        "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/wogg.png",
+        "copy": "file://Download/local/fty/fty.json",
+        "version": "0316"
+      },
+      {
+        "name": "『饭』太硬",
+        "url": "https://agit.ai/yxsy/Url/raw/branch/master/local/fty.zip",
+        "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/wogg.png",
+        "copy": "file://Download/local/fty/fty.json",
+        "version": "0316"
+      },
+      {
+        "name": "『香』雅情",
         "url": "https://agit.ai/yxsy/Url/raw/branch/master/local/xyq.zip",
         "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/local.jpg",
-        "copy": "file://Download/xyq/xyq.json",
-        "version": "0314"
+        "copy": "file://Download/local/xyq/xyq.json",
+        "version": "0316"
       }
     ]
   },
