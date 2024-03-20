@@ -1,32 +1,9 @@
-/**
- * 已知问题：
-    * [推荐]页面：'雷电模拟器'播放部份影片会出错，'播放器'改成'ijk' & '解码方式'改成'软解'，即可正常播放
- * 影视TV 超連結跳轉支持
- * 影视TV 弹幕支持
-    * https://t.me/fongmi_offical/
-    * https://github.com/FongMi/Release/tree/main/apk
- * 皮皮虾DMBox 弹幕支持
-    * 设置 > 窗口预览 > 开启
-    * https://t.me/pipixiawerun
-    * vod_area:'bilidanmu'
- * Cookie设置
-    * Cookie获取方法 https://ghproxy.net/https://raw.githubusercontent.com/UndCover/PyramidStore/main/list.md
- * Cookie设置方法1: DR-PY 后台管理界面
-    * CMS后台管理 > 设置中心 > 环境变量 > {"bili_cookie":"XXXXXXX","vmid":"XXXXXX"} > 保存
- * Cookie设置方法2: 手动替换Cookie
-    * 底下代码 headers的
-    * "Cookie":"$bili_cookie"
-    * 手动替换为
-    * "Cookie":"将获取的Cookie黏贴在这"
- */
-
 var rule = {
     title:'我的教育',
     host:'https://api.bilibili.com',
-    // homeUrl:'/x/web-interface/search/type?search_type=video&keyword=小姐姐4K&page=1',
     homeUrl:'/x/web-interface/ranking/v2?rid=0&type=origin', // 排行 > 排行榜 > 原创
     url:'/x/web-interface/search/type?search_type=videofyfilter',
-    class_name:'📘人教版&📗苏教版&📕沪教版&📙北师大版&👶儿童&🌏纪录片&🌐探索发现&🐘动物世界',
+    class_name:'📘人教版&📗苏教版&📕沪教版&📙北师大版&👶儿童&纪录片&探索发现&动物世界',
     class_url:'人教版课程&苏教版课程&沪教版课程&北师大版课程&儿童&纪录片超清&探索发现超清&动物世界超清',
     filterable: 1,
     filter_url: '&keyword={{fl.tid}}&page=fypage&duration={{fl.duration}}&order={{fl.order}}',
@@ -50,7 +27,6 @@ var rule = {
         "探索发现超清":[{"key":"order","name":"排序","value":[{"n":"综合排序","v":"0"},{"n":"最多点击","v":"click"},{"n":"最新发布","v":"pubdate"},{"n":"最多弹幕","v":"dm"},{"n":"最多收藏","v":"stow"}]},{"key":"duration","name":"时长","value":[{"n":"全部","v":"0"},{"n":"60分钟以上","v":"4"},{"n":"30~60分钟","v":"3"},{"n":"10~30分钟","v":"2"},{"n":"10分钟以下","v":"1"}]}],
         "动物世界超清":[{"key":"order","name":"排序","value":[{"n":"综合排序","v":"0"},{"n":"最多点击","v":"click"},{"n":"最新发布","v":"pubdate"},{"n":"最多弹幕","v":"dm"},{"n":"最多收藏","v":"stow"}]},{"key":"duration","name":"时长","value":[{"n":"全部","v":"0"},{"n":"60分钟以上","v":"4"},{"n":"30~60分钟","v":"3"},{"n":"10~30分钟","v":"2"},{"n":"10分钟以下","v":"1"}]}]
     },
-    // detailUrl:'/x/web-interface/view?aid=fyid',//二级详情拼接链接(json格式用)
     detailUrl:'/x/web-interface/view/detail?aid=fyid',//二级详情拼接链接(json格式用)
     searchUrl:'/x/web-interface/search/type?search_type=video&keyword=**&page=fypage',
     searchable:2,
@@ -59,8 +35,8 @@ var rule = {
         "User-Agent":"PC_UA",
         "Referer": "https://www.bilibili.com",
         // "Cookie":"$bili_cookie"
-        // "Cookie":"https://ghproxy.net/https://github.com/FongMi/CatVodSpider/raw/main/txt/cookie.txt"
-        "Cookie":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/cookie.txt"
+        "Cookie":"SESSDATA=01c79709%2C1711618905%2C244c3%2A91CjA9UUnRb_kJg03J5FqUbin76yMY90o1-ckJsM1ItQH21ns4hgcS6Le6oMR3SKtC18QSVmxSbGRhN3cyS3NReERsOHRfYVlhTWJKZjZyTF9wUWJXbjNfaF9qWklFMFpoeVg1ZUhFb0Q0MGFiN3FYd1N3UEFEY1oxX29IdmFSRVVLamcybGhhSkJnIIEC; bili_jct=e9d6e9df733afde2a03693d63a4e77dc; DedeUserID=186957646; DedeUserID__ckMd5=4f717c8832ee1e62; sid=elhiqom1"
+        // "Cookie":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/cookie.txt"
     },
     timeout:5000,
     limit:8,
@@ -107,9 +83,9 @@ var rule = {
     double:false,
     // 推荐:'*',
     推荐:`js:
-        // function stripHtmlTag(src) {
-            // return src.replace(/<\\/?[^>]+(>|$)/g, '').replace(/&.{1,5};/g, '').replace(/\\s{2,}/g, ' ');
-        // }
+        function stripHtmlTag(src) {
+            return src.replace(/<\\/?[^>]+(>|$)/g, '').replace(/&.{1,5};/g, '').replace(/\\s{2,}/g, ' ');
+        }
         function turnDHM(duration) {
             let min = '';
             let sec = '';
