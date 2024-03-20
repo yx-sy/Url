@@ -107,9 +107,9 @@ var rule = {
     double:false,
     // 推荐:'*',
     推荐:`js:
-        function stripHtmlTag(src) {
-            return src.replace(/<\\/?[^>]+(>|$)/g, '').replace(/&.{1,5};/g, '').replace(/\\s{2,}/g, ' ');
-        }
+        // function stripHtmlTag(src) {
+            // return src.replace(/<\\/?[^>]+(>|$)/g, '').replace(/&.{1,5};/g, '').replace(/\\s{2,}/g, ' ');
+        // }
         function turnDHM(duration) {
             let min = '';
             let sec = '';
