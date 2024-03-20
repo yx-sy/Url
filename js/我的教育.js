@@ -3,7 +3,7 @@ var rule = {
     host:'https://api.bilibili.com',
     homeUrl:'/x/web-interface/ranking/v2?rid=0&type=origin', // 排行 > 排行榜 > 原创
     url:'/x/web-interface/search/type?search_type=videofyfilter',
-    class_name:'📘人教版&📗苏教版&📕沪教版&📙北师大版&👶儿童&纪录片&探索发现&动物世界',
+    class_name:'📘人教版&📗苏教版&📕沪教版&📙北师大版&👶儿童&🌏纪录片&🌐探索发现&🐘动物世界',
     class_url:'人教版课程&苏教版课程&沪教版课程&北师大版课程&儿童&纪录片超清&探索发现超清&动物世界超清',
     filterable: 1,
     filter_url: '&keyword={{fl.tid}}&page=fypage&duration={{fl.duration}}&order={{fl.order}}',
