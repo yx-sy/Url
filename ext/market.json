@@ -400,17 +400,23 @@
                 "url": "https://bitbucket.org/xiu2/yuedu/raw/master/dist/img/QRCode-mirror-ghproxy-com.png",
                 "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/yd.png"
             },
-            {
-                "name": "GKD",
-                "url": "https://github.moeyy.xyz/https://github.com/gkd-kit/gkd/releases/download/v1.7.1/gkd-v1.7.1.apk",
-                "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/gkd.png",
-                "version": "v1.7.1"
-            },
+            // {
+                // "name": "GKD",
+                // "url": "https://github.moeyy.xyz/https://github.com/gkd-kit/gkd/releases/download/v1.7.1/gkd-v1.7.1.apk",
+                // "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/gkd.png",
+                // "version": "v1.7.1"
+            // },
             {
                 "name": "李跳跳",
                 "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yx-sy/Url/main/ad_skip/ltt_2.2.apk",
                 "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/ltt.png",
                 "version": "v2.2"
+            },
+            {
+                "name": "跳跳规则",
+                "url": "https://agit.ai/yxsy/Url/raw/branch/master/rule/rule.txt",
+                "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/ltt.png",
+                "version": "规则"
             }
         ]
     }
