@@ -413,10 +413,9 @@
                 "version": "v2.2"
             },
             {
-                "name": "跳跳规则",
+                "name": "李跳跳规则",
                 "url": "https://agit.ai/yxsy/Url/raw/branch/master/rule/rule.txt",
-                "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/ltt.png",
-                "version": "规则"
+                "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/ltt.png"
             }
         ]
     }
