@@ -45,7 +45,7 @@
         "list": [
             {
                 "name": "正式版",
-                "url": "",
+                "url": "http://www.baidu.com",
                 "icon": "",
                 "version": "Release"
             },
@@ -402,9 +402,9 @@
             },
             // {
                 // "name": "GKD",
-                // "url": "https://github.moeyy.xyz/https://github.com/gkd-kit/gkd/releases/download/v1.7.1/gkd-v1.7.1.apk",
+                // "url": "https://github.moeyy.xyz/https://github.com/gkd-kit/gkd/releases/download/v1.7.2/gkd-v1.7.2.apk",
                 // "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/gkd.png",
-                // "version": "v1.7.1"
+                // "version": "v1.7.2"
             // },
             {
                 "name": "李跳跳",
