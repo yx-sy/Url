@@ -373,10 +373,16 @@
                 "version": "v1.2.0"
             },
             {
-                "name": "LX Music音源",
+                "name": "LX音源",
                 "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lyswhut/lx-music-source/master/dist/lx-music-source.js",
                 "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/lx.png",
                 "version": "v1.1.1"
+            },
+            {
+                "name": "sixyin音源",
+                "url": "https://agit.ai/yxsy/Url/raw/branch/master/source/sixyin-music-source-v1.1.0.js",
+                "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/lx.png",
+                "version": "v1.1.0"
             },
             {
                 "name": "MusicFree",
