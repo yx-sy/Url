@@ -428,6 +428,12 @@
                 "name": "李跳跳规则",
                 "url": "https://agit.ai/yxsy/Url/raw/branch/master/rule/ltt.txt",
                 "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/ltt.png"
+            },
+            {
+                "name": "LocalSend",
+                "url": "https://github.moeyy.xyz/https://github.com/localsend/localsend/releases/download/v1.14.0/LocalSend-1.14.0.apk",
+                "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/ltt.png",
+                "version": "v1.14.0"
             }
         ]
     }
