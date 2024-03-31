@@ -22,9 +22,9 @@
             },
             {
                 "name": "TVBox",  //t版
-                "url": "https://github.moeyy.xyz/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240323-2042/TVBox_takagen99_20240323-2042.apk",
+                "url": "https://github.moeyy.xyz/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240331-1227/TVBox_takagen99_20240331-1227.apk",
                 "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/tbt.png",
-                "version": "20240323-2042"
+                "version": "20240331-1227"
             },
             {
                 "name": "TVBox",  //q版
@@ -288,9 +288,9 @@
         "list": [
             {
                 "name": "TVBox",
-                "url": "https://github.moeyy.xyz/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240323-2042/TVBox_takagen99_20240323-2042.apk",
+                "url": "https://github.moeyy.xyz/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240331-1227/TVBox_takagen99_20240331-1227.apk",
                 "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/tbt.png",
-                "version": "20240323-2042"
+                "version": "20240331-1227"
             },
             {
                 "name": "TVBox",
