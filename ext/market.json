@@ -312,7 +312,7 @@
             {
                 "name": "米饭香",
                 "url": "https://agit.ai/yxsy/Url/raw/branch/master/local/local.zip",
-                "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/local.jpg",
+                "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/local.png",
                 "copy": "file://Download/local/local.json",
                 "version": "三合一"
             },
@@ -333,7 +333,7 @@
             {
                 "name": "『香』雅情",
                 "url": "https://agit.ai/yxsy/Url/raw/branch/master/local/xyq.zip",
-                "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/local.jpg",
+                "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/local.png",
                 "copy": "file://Download/local/xyq/xyq.json",
                 "version": "0316"
             }
@@ -345,7 +345,7 @@
             {
                 "name": "电视应用",
                 "url": "",
-                "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/tv.jpg",
+                "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/tv.png",
                 "version": "📺"
             },
             {
@@ -363,7 +363,7 @@
             {
                 "name": "我的電視〇",
                 "url": "https://github.moeyy.xyz/https://github.com/lizongying/my-tv-0/releases/download/v1.0.4/my-tv-0-v1.0.4.apk",
-                "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/wdds_o.jpg",
+                "icon": "https://agit.ai/yxsy/img/raw/branch/main/cus/wdds_o.png",
                 "version": "v1.0.4"
             },
             {
