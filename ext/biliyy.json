@@ -1,10 +1,9 @@
 {
 "class":[
-{"type_name":"经典无损音乐","type_id":"经典无损音乐合集"},
+{"type_name":"经典无损","type_id":"经典无损音乐合集"},
 {"type_name":"音乐","type_id":"音乐"},
 {"type_name":"歌曲","type_id":"歌曲"},
 {"type_name":"MV","type_id":"MV4K"},
-{"type_name":"演唱会","type_id":"演唱会4K"},
 {"type_name":"相声小品","type_id":"相声小品"},
 {"type_name":"戏曲","type_id":"戏曲"}
 ],
