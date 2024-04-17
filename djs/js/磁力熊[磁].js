@@ -2,7 +2,6 @@ var rule = {
 	title:'磁力熊[磁]',
 	host:'https://www.cilixiong.com',
 	homeUrl:'/top250/index.html',
-	// url: '/fyclass/index_(fypage-1).html',
 	url: '/fyclassfyfilter-(fypage-1).html',
 	filter_url:'-{{fl.class or "0"}}-{{fl.area or "0"}}',
 	filter:{
@@ -63,11 +62,6 @@ var rule = {
 		desc:'p.mb-2:eq(1)&&Text;;;p.mb-2:eq(7)&&Text;p.mb-2:eq(5)&&Text',
 		img:'.rounded-2&&src',
 		content:'.mv_card_box&&Text',
-		// tabs:'js:TABS = ["道长磁力"]',
-		// lists:'.mv_down:eq(#id)&&.border-bottom',
-		// list_text:'a&&Text',
-		// list_url:'a&&href',
-
 		tabs:'js:TABS = ["道长磁力","道长在线预览"]',
 		lists:`js:
 		log(TABS);
