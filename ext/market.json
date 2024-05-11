@@ -322,29 +322,36 @@
         "name": "本地接口",
         "list": [
             {
+                "name": "PG",
+                "url": "https://gitee.com/yx-sy/Url/raw/master/local/pg.zip",
+                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/local.png",
+                "copy": "file://Download/pg/jsm.json",
+                "version": "PG-5.11"
+            },
+            {
                 "name": "米饭香",
-                "url": "https://agit.ai/yxsy/Url/raw/branch/master/local/local.zip",
+                "url": "https://gitee.com/yx-sy/Url/raw/master/local/local.zip",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/local.png",
                 "copy": "file://Download/local/local.json",
                 "version": "三合一"
             },
             {
                 "name": "小『米』",
-                "url": "https://agit.ai/yxsy/Url/raw/branch/master/local/fty.zip",
+                "url": "https://gitee.com/yx-sy/Url/raw/master/local/fty.zip",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/wogg.png",
                 "copy": "file://Download/local/fty/fty.json",
                 "version": "0316"
             },
             {
                 "name": "『饭』太硬",
-                "url": "https://agit.ai/yxsy/Url/raw/branch/master/local/fty.zip",
+                "url": "https://gitee.com/yx-sy/Url/raw/master/local/fty.zip",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/wogg.png",
                 "copy": "file://Download/local/fty/fty.json",
                 "version": "0316"
             },
             {
                 "name": "『香』雅情",
-                "url": "https://agit.ai/yxsy/Url/raw/branch/master/local/xyq.zip",
+                "url": "https://gitee.com/yx-sy/Url/raw/master/local/xyq.zip",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/local.png",
                 "copy": "file://Download/local/xyq/xyq.json",
                 "version": "0316"
