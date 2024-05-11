@@ -263,6 +263,18 @@
                 "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/mobile-python-arm64_v8a.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ysj.png",
                 "version": "dev_v8a"
+            },
+            {
+                "name": "海信版",
+                "url": "",
+                "icon": "",
+                "version": "海信专用"
+            },
+            {
+                "name": "电视-海信",
+                "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/海信专用.apk",
+                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ytv.png",
+                "version": "海信专用"
             }
         ]
     },
@@ -362,9 +374,9 @@
             },
             // {
                 // "name": "我的電視〇",
-                // "url": "https://github.moeyy.xyz/https://github.com/lizongying/my-tv-0/releases/download/v1.1.5/my-tv-0-v1.1.5.apk",
+                // "url": "https://github.moeyy.xyz/https://github.com/lizongying/my-tv-0/releases/download/v1.1.7/my-tv-0-v1.1.7.apk",
                 // "icon": "https://gitee.com/yx-sy/img/raw/main/cus/wdds_o.png",
-                // "version": "v1.1.5"
+                // "version": "v1.1.7"
             // },
             // {
                 // "name": "我的电视IPV6",
