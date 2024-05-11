@@ -150,6 +150,18 @@
                 "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-python-arm64_v8a.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ysj.png",
                 "version": "dev_v8a"
+            },
+            {
+                "name": "海信版",
+                "url": "",
+                "icon": "",
+                "version": "海信专用"
+            },
+            {
+                "name": "电视-海信",
+                "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/海信专用.apk",
+                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ytv.png",
+                "version": "海信专用"
             }
         ]
     },
@@ -263,18 +275,6 @@
                 "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/mobile-python-arm64_v8a.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ysj.png",
                 "version": "dev_v8a"
-            },
-            {
-                "name": "海信版",
-                "url": "",
-                "icon": "",
-                "version": "海信专用"
-            },
-            {
-                "name": "电视-海信",
-                "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/dev/海信专用.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ytv.png",
-                "version": "海信专用"
             }
         ]
     },
