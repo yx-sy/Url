@@ -326,35 +326,35 @@
                 "url": "https://gitee.com/yx-sy/Url/raw/master/local/pg.zip",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/local.png",
                 "copy": "file://Download/pg/jsm.json",
-                "version": "PG-5.11"
+                "version": "0512"
             },
             {
-                "name": "米饭香",
+                "name": "P米饭香",
                 "url": "https://gitee.com/yx-sy/Url/raw/master/local/local.zip",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/local.png",
                 "copy": "file://Download/local/local.json",
-                "version": "三合一"
+                "version": "四合一0512"
             },
             {
                 "name": "小『米』",
                 "url": "https://gitee.com/yx-sy/Url/raw/master/local/fty.zip",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/wogg.png",
                 "copy": "file://Download/local/fty/fty.json",
-                "version": "0316"
+                "version": "0512"
             },
             {
                 "name": "『饭』太硬",
                 "url": "https://gitee.com/yx-sy/Url/raw/master/local/fty.zip",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/wogg.png",
                 "copy": "file://Download/local/fty/fty.json",
-                "version": "0316"
+                "version": "0512"
             },
             {
                 "name": "『香』雅情",
                 "url": "https://gitee.com/yx-sy/Url/raw/master/local/xyq.zip",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/local.png",
                 "copy": "file://Download/local/xyq/xyq.json",
-                "version": "0316"
+                "version": "0512"
             }
         ]
     },
