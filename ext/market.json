@@ -323,14 +323,14 @@
         "list": [
             {
                 "name": "P米饭香•多线",
-                "url": "https://gitee.com/yx-sy/Url/raw/master/local/local.zip",
+                "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yx-sy/Url/raw/master/local/local.zip",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/local.png",
                 "copy": "file://Download/local/local.json",
                 "version": "0512"
             },
             {
                 "name": "PG•线路",
-                "url": "https://gitee.com/yx-sy/Url/raw/master/local/pg.zip",
+                "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yx-sy/Url/raw/master/local/pg.zip",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/local.png",
                 "copy": "file://Download/local/pg/pg.json",
                 "version": "0512"
