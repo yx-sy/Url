@@ -322,35 +322,35 @@
         "name": "本地接口",
         "list": [
             {
-                "name": "PG",
-                "url": "https://gitee.com/yx-sy/Url/raw/master/local/pg.zip",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/local.png",
-                "copy": "file://Download/pg/jsm.json",
-                "version": "0512"
-            },
-            {
-                "name": "P米饭香",
+                "name": "P米饭香•多线",
                 "url": "https://gitee.com/yx-sy/Url/raw/master/local/local.zip",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/local.png",
                 "copy": "file://Download/local/local.json",
-                "version": "四合一0512"
+                "version": "0512"
             },
             {
-                "name": "小『米』",
+                "name": "PG•线路",
+                "url": "https://gitee.com/yx-sy/Url/raw/master/local/pg.zip",
+                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/local.png",
+                "copy": "file://Download/local/pg/pg.json",
+                "version": "0512"
+            },
+            {
+                "name": "米•线路",
+                "url": "https://gitee.com/yx-sy/Url/raw/master/local/xiaomi.zip",
+                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/wogg.png",
+                "copy": "file://Download/local/xiaomi/xiaomi.json",
+                "version": "0512"
+            },
+            {
+                "name": "饭•线路",
                 "url": "https://gitee.com/yx-sy/Url/raw/master/local/fty.zip",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/wogg.png",
                 "copy": "file://Download/local/fty/fty.json",
                 "version": "0512"
             },
             {
-                "name": "『饭』太硬",
-                "url": "https://gitee.com/yx-sy/Url/raw/master/local/fty.zip",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/wogg.png",
-                "copy": "file://Download/local/fty/fty.json",
-                "version": "0512"
-            },
-            {
-                "name": "『香』雅情",
+                "name": "香•线路",
                 "url": "https://gitee.com/yx-sy/Url/raw/master/local/xyq.zip",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/local.png",
                 "copy": "file://Download/local/xyq/xyq.json",
