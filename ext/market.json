@@ -9,10 +9,10 @@
                 "version": "v7a"
             },
             {
-                "name": "电视-Android4",
+                "name": "电视-Java",
                 "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ytv.png",
-                "version": "java-v7a"
+                "version": "v7a-Android4"
             },
             {
                 "name": "手机-java",
@@ -382,15 +382,15 @@
             },
             // {
                 // "name": "MyTV高核版",
-                // "url": "https://github.moeyy.xyz/https://github.com/lizongying/my-tv/releases/download/v2.0.5/my-tv-v2.0.5.apk",
+                // "url": "https://github.moeyy.xyz/https://github.com/lizongying/my-tv/releases/download/v2.0.7/my-tv-v2.0.7.apk",
                 // "icon": "https://gitee.com/yx-sy/img/raw/main/cus/wdds_ty.png",
-                // "version": "v2.0.5"
+                // "version": "v2.0.7"
             // },
             {
                 "name": "MyTV通用版",
-                "url": "https://github.moeyy.xyz/https://github.com/lizongying/my-tv/releases/download/v2.0.4/my-tv-v2.0.4.apk",
+                "url": "https://github.moeyy.xyz/https://github.com/lizongying/my-tv/releases/download/v2.0.8/my-tv-v2.0.8.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/wdds_ty.png",
-                "version": "v2.0.4"
+                "version": "v2.0.8"
             },
             // {
                 // "name": "我的電視〇",
