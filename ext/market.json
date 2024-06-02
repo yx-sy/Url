@@ -418,21 +418,27 @@
             },
             {
                 "name": "LX Music",
-                "url": "https://github.moeyy.xyz/https://github.com/lyswhut/lx-music-mobile/releases/download/v1.2.0/lx-music-mobile-v1.2.0-arm64-v8a.apk",
+                "url": "https://github.moeyy.xyz/https://github.com/lyswhut/lx-music-mobile/releases/download/v1.4.2/lx-music-mobile-v1.4.2-arm64-v8a.apk",
+                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/lx.png",
+                "version": "v1.4.2"
+            },
+            // {
+                // "name": "LX音源",
+                // "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lyswhut/lx-music-source/master/dist/lx-music-source.js",
+                // "icon": "https://gitee.com/yx-sy/img/raw/main/cus/lx.png",
+                // "version": "v1.1.1"
+            // },
+            {
+                "name": "野草音源",
+                "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yx-sy/Url/master/source/yecao.js",
+                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/lx.png",
+                "version": "v1.0.0"
+            },
+            {
+                "name": "六音音源",
+                "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yx-sy/Url/master/source/sixyin.js",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/lx.png",
                 "version": "v1.2.0"
-            },
-            {
-                "name": "LX音源",
-                "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lyswhut/lx-music-source/master/dist/lx-music-source.js",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/lx.png",
-                "version": "v1.1.1"
-            },
-            {
-                "name": "sixyin音源",
-                "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yx-sy/Url/master/source/sixyin-music-source-v1.1.0.js",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/lx.png",
-                "version": "v1.1.0"
             },
             {
                 "name": "MusicFree",
