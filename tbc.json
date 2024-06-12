@@ -1,13 +1,13 @@
 {
     "urls": [
         {
+            "url": "http://www.饭太硬.com/tv",
+            "name": "🍚饭•线路"
+        }, 
+        {
             "url": "http://xhww.fun:63/小米/DEMO.json",
             "name": "🌾米•线路"
         },
-        {
-            "url": "http://饭太硬.top/tv",
-            "name": "🍚饭•线路"
-        }, 
         {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
             "name": "💨香•线路"
@@ -17,11 +17,11 @@
             "name": "👌OK线路"
         },
         {
-            "url": "http://肥猫.live",
+            "url": "http://肥猫.com",
             "name": "🐼肥猫线路"
         },
         {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yx-sy/gtly/master/js.json",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "⛄道长线路"
         }
     ]
