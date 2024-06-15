@@ -1,6 +1,7 @@
 [
-{"name":"饭太硬","url":"https://xhdwc.tk/tvlive.txt&&&https://gitee.com/liew502/png/raw/main/bg/bg.jpg"},
-{"name":"肥猫源","url":"http://我不是.肥猫.love:63/TV/tvzb.txt&&&https://gitee.com/liew502/png/raw/main/bg/bg.jpg"},
-{"name":"明明源","group":1,"url":"https://live.fanmingming.com/tv/m3u/global.m3u&&&https://gitee.com/liew502/png/raw/main/bg/bg.jpg"},
-{"name":"IPV6源","group":1,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u&&&https://gitee.com/liew502/png/raw/main/bg/bg.jpg"}
+{"name":"饭太硬","url":"https://xhdwc.tk/tvlive.txt&&&https://gitee.com/liew502/url/raw/master/live/bg.jpg"},
+{"name":"肥猫源","url":"http://我不是.肥猫.love:63/TV/tvzb.txt&&&https://gitee.com/liew502/url/raw/master/live/bg.jpg"},
+{"name":"明明源","group":1,"url":"https://live.fanmingming.com/tv/m3u/global.m3u&&&https://gitee.com/liew502/url/raw/master/live/bg.jpg"},
+{"name":"IPV6源","group":1,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u&&&https://gitee.com/liew502/url/raw/master/live/bg.jpg"},
+{"name":"百事源","url":"https://www.bestpvp.site/tvbox/live/live_stable.txt"}
 ]
