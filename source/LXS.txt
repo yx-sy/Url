@@ -1,0 +1,8 @@
+【LxMusic_source】复制链接，在线导入音源
+https://raw.niuma666bet.buzz/Huibq/keep-alive/master/render_api.js
+https://gitee.com/yx-sy/Url/raw/master/source/yecao.js
+https://gitee.com/yx-sy/Url/raw/master/source/sixyin.js
+
+使用方法：
+设置-自定义音源-导入-在线导入
+
