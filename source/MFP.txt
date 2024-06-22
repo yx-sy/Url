@@ -4,9 +4,19 @@ https://musicfreepluginshub.2020818.xyz/plugins.json
 https://gitee.com/wxej/yy/raw/master/MusicFree.json
 
 
-推荐安装第一条
+推荐订阅第一条
 
-使用方法：
+【订阅使用方法】
+1左上三横
+2插件管理
+3右上三点
+4订阅设置
+5右下+
+6粘贴订阅链接
+7右下+
+8更新订阅
+
+【直接安装插件方法】
 1左上三横
 2插件管理
 3右下+
