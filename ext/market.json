@@ -374,12 +374,12 @@
     {
         "name": "电视App",
         "list": [
-            {
-                "name": "TV应用",
-                "url": "这只是一个图标",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/tv.png",
-                "version": "📺"
-            },
+            // {
+                // "name": "TV应用",
+                // "url": "这只是一个图标",
+                // "icon": "https://gitee.com/yx-sy/img/raw/main/cus/tv.png",
+                // "version": "📺"
+            // },
             {
                 "name": "MyTV通用版",
                 "url": "https://github.moeyy.xyz/https://github.com/lizongying/my-tv/releases/download/v2.1.8/my-tv-v2.1.8.apk",
@@ -397,12 +397,12 @@
     {
         "name": "手机App",
         "list": [
-            {
-                "name": "手机应用",
-                "url": "这只是一个图标",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/mobile.png",
-                "version": "📱"
-            },
+            // {
+                // "name": "手机应用",
+                // "url": "这只是一个图标",
+                // "icon": "https://gitee.com/yx-sy/img/raw/main/cus/mobile.png",
+                // "version": "📱"
+            // },
             {
                 "name": "LX Music",
                 "url": "https://github.moeyy.xyz/https://github.com/lyswhut/lx-music-mobile/releases/download/v1.4.2/lx-music-mobile-v1.4.2-arm64-v8a.apk",
