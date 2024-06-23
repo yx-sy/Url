@@ -372,47 +372,34 @@
         ]
     },
     {
-        "name": "精品App",
+        "name": "电视App",
         "list": [
             {
-                "name": "电视应用",
-                "url": "",
+                "name": "TV应用",
+                "url": "这只是一个图标",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/tv.png",
                 "version": "📺"
             },
-            // {
-                // "name": "MyTV高核版",
-                // "url": "https://github.moeyy.xyz/https://github.com/lizongying/my-tv/releases/download/v2.1.1/my-tv-v2.1.1.apk",
-                // "icon": "https://gitee.com/yx-sy/img/raw/main/cus/wdds_ty.png",
-                // "version": "v2.1.1"
-            // },
             {
                 "name": "MyTV通用版",
                 "url": "https://github.moeyy.xyz/https://github.com/lizongying/my-tv/releases/download/v2.1.8/my-tv-v2.1.8.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/wdds_ty.png",
                 "version": "v2.1.8"
             },
-            // {
-                // "name": "我的電視〇",
-                // "url": "https://github.moeyy.xyz/https://github.com/lizongying/my-tv-0/releases/download/v1.1.7/my-tv-0-v1.1.7.apk",
-                // "icon": "https://gitee.com/yx-sy/img/raw/main/cus/wdds_o.png",
-                // "version": "v1.1.7"
-            // },
-            // {
-                // "name": "我的电视IPV6",
-                // "url": "https://github.moeyy.xyz/https://github.com/yaoxieyoulei/my_tv/releases/download/v1.2.5/my_tv-1.2.5.apk",
-                // "icon": "https://gitee.com/yx-sy/img/raw/main/cus/wdds_yxyl.png",
-                // "version": "v1.2.5"
-            // },
             {
                 "name": "我的电视IPV6",
                 "url": "https://github.moeyy.xyz/https://github.com/yaoxieyoulei/mytv-android/releases/download/v1.4.1/mytv-android-1.4.1.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/wdds_yxyla.png",
                 "version": "v1.4.1"
-            },
+            }
+        ]
+    },
+    {
+        "name": "手机App",
+        "list": [
             {
                 "name": "手机应用",
-                "url": "",
+                "url": "这只是一个图标",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/mobile.png",
                 "version": "📱"
             },
@@ -451,12 +438,23 @@
                 "url": "https://bitbucket.org/xiu2/yuedu/raw/master/dist/img/QRCode-mirror-ghproxy-com.png",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/yd.png"
             },
-            // {
-                // "name": "GKD",
-                // "url": "https://github.moeyy.xyz/https://github.com/gkd-kit/gkd/releases/download/v1.7.2/gkd-v1.7.2.apk",
-                // "icon": "https://gitee.com/yx-sy/img/raw/main/cus/gkd.png",
-                // "version": "v1.7.2"
-            // },
+            {
+                "name": "SKIP",
+                "url": "https://github.moeyy.xyz/https://github.com/GuoXiCheng/SKIP/releases/download/v2.1.1/SKIP-v2.1.1.apk",
+                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/skip.png",
+                "version": "v2.1.1"
+            },
+            {
+                "name": "GKD",
+                "url": "https://github.moeyy.xyz/https://github.com/gkd-kit/gkd/releases/download/v1.8.0-beta.2/gkd-v1.8.0-beta.2.apk",
+                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/gkd.png",
+                "version": "v1.8.0"
+            },
+            {
+                "name": "GKD订阅",
+                "url": "https://gitee.com/yx-sy/Url/raw/master/rule/gkd.txt",
+                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/gkd.png"
+            },
             {
                 "name": "李跳跳",
                 "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yx-sy/Url/master/app/ltt_v2.2.apk",
