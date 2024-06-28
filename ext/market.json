@@ -21,7 +21,7 @@
                 "version": "v8a"
             },
             {
-                "name": "TVBox",  //t版
+                "name": "v8a_generic",  //t版
                 "url": "https://github.moeyy.xyz/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240624-0052/TVBox_takagen99_20240624-0052-arm64-generic.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/tbt.png",
                 "version": "20240624-0052"
@@ -312,8 +312,26 @@
         "name": "TVBox",
         "list": [
             {
-                "name": "TVBox",
+                "name": "v8a_generic",
                 "url": "https://github.moeyy.xyz/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240624-0052/TVBox_takagen99_20240624-0052-arm64-generic.apk",
+                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/tbt.png",
+                "version": "20240624-0052"
+            },
+            {
+                "name": "v8a_hisense",
+                "url": "https://github.moeyy.xyz/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240624-0052/TVBox_takagen99_20240624-0052-arm64-hisense.apk",
+                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/tbt.png",
+                "version": "20240624-0052"
+            },
+            {
+                "name": "v7a_generic",
+                "url": "https://github.moeyy.xyz/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240624-0052/TVBox_takagen99_20240624-0052-armeabi-generic.apk",
+                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/tbt.png",
+                "version": "20240624-0052"
+            },
+            {
+                "name": "v7a_hisense",
+                "url": "https://github.moeyy.xyz/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240624-0052/TVBox_takagen99_20240624-0052-armeabi-hisense.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/tbt.png",
                 "version": "20240624-0052"
             },
