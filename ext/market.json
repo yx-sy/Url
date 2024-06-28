@@ -445,12 +445,6 @@
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/yd.png"
             },
             {
-                "name": "SKIP",
-                "url": "https://github.moeyy.xyz/https://github.com/GuoXiCheng/SKIP/releases/download/v2.1.1/SKIP-v2.1.1.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/skip.png",
-                "version": "v2.1.1"
-            },
-            {
                 "name": "GKD",
                 "url": "https://github.moeyy.xyz/https://github.com/gkd-kit/gkd/releases/download/v1.8.0-beta.2/gkd-v1.8.0-beta.2.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/gkd.png",
@@ -471,6 +465,12 @@
                 "name": "李跳跳规则",
                 "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yx-sy/Url/master/rule/ltt.txt",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ltt.png"
+            },
+            {
+                "name": "SKIP",
+                "url": "https://github.moeyy.xyz/https://github.com/GuoXiCheng/SKIP/releases/download/v2.1.1/SKIP-v2.1.1.apk",
+                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/skip.png",
+                "version": "v2.1.1"
             },
             {
                 "name": "LocalSend",
