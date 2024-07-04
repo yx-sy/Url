@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "url": "http://www.饭太硬.com/tv",
+            "url": "https://www.饭太硬.com/tv",
             "name": "🍚饭•线路"
         }, 
         {
@@ -17,12 +17,16 @@
             "name": "👌OK线路"
         },
         {
-            "url": "http://肥猫.com",
+            "url": "https://肥猫.com",
             "name": "🐼肥猫线路"
         },
         {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "⛄道长线路"
+        },
+        {
+            "url": "./tb.json",
+            "name": "💎网易线路"
         }
     ]
 }
