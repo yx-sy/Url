@@ -22,9 +22,9 @@
             },
             {
                 "name": "v8a_generic",  //t版
-                "url": "https://github.moeyy.xyz/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240624-0052/TVBox_takagen99_20240624-0052-arm64-generic.apk",
+                "url": "https://github.moeyy.xyz/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240709-2109/TVBox_takagen99_20240709-2109-arm64-generic.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/tbt.png",
-                "version": "20240624-0052"
+                "version": "20240709-2109"
             },
             {
                 "name": "TVBox",  //q版
@@ -313,27 +313,27 @@
         "list": [
             {
                 "name": "v8a_generic",
-                "url": "https://github.moeyy.xyz/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240624-0052/TVBox_takagen99_20240624-0052-arm64-generic.apk",
+                "url": "https://github.moeyy.xyz/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240709-2109/TVBox_takagen99_20240709-2109-arm64-generic.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/tbt.png",
-                "version": "20240624-0052"
+                "version": "20240709-2109"
             },
             {
                 "name": "v8a_hisense",
-                "url": "https://github.moeyy.xyz/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240624-0052/TVBox_takagen99_20240624-0052-arm64-hisense.apk",
+                "url": "https://github.moeyy.xyz/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240709-2109/TVBox_takagen99_20240709-2109-arm64-hisense.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/tbt.png",
-                "version": "20240624-0052"
+                "version": "20240709-2109"
             },
             {
                 "name": "v7a_generic",
-                "url": "https://github.moeyy.xyz/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240624-0052/TVBox_takagen99_20240624-0052-armeabi-generic.apk",
+                "url": "https://github.moeyy.xyz/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240709-2109/TVBox_takagen99_20240709-2109-armeabi-generic.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/tbt.png",
-                "version": "20240624-0052"
+                "version": "20240709-2109"
             },
             {
                 "name": "v7a_hisense",
-                "url": "https://github.moeyy.xyz/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240624-0052/TVBox_takagen99_20240624-0052-armeabi-hisense.apk",
+                "url": "https://github.moeyy.xyz/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240709-2109/TVBox_takagen99_20240709-2109-armeabi-hisense.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/tbt.png",
-                "version": "20240624-0052"
+                "version": "20240709-2109"
             },
             {
                 "name": "TVBox",
@@ -392,11 +392,17 @@
     {
         "name": "电视App",
         "list": [
+            // {
+                // "name": "MyTV通用版",
+                // "url": "https://github.moeyy.xyz/https://github.com/lizongying/my-tv/releases/download/v2.1.8/my-tv-v2.1.8.apk",
+                // "icon": "https://gitee.com/yx-sy/img/raw/main/cus/wdds_ty.png",
+                // "version": "v2.1.8"
+            // },
             {
-                "name": "MyTV通用版",
-                "url": "https://github.moeyy.xyz/https://github.com/lizongying/my-tv/releases/download/v2.1.8/my-tv-v2.1.8.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/wdds_ty.png",
-                "version": "v2.1.8"
+                "name": "My-TV-O",
+                "url": "https://github.moeyy.xyz/https://github.com/lizongying/my-tv-0/releases/download/v1.2.8/my-tv-0-v1.2.8.apk",
+                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/wdds_yxyla.png",
+                "version": "v1.2.8"
             },
             {
                 "name": "我的电视IPV6",
@@ -446,7 +452,7 @@
             },
             {
                 "name": "GKD",
-                "url": "https://github.moeyy.xyz/https://github.com/gkd-kit/gkd/releases/download/v1.8.0-beta.2/gkd-v1.8.0-beta.2.apk",
+                "url": "https://github.moeyy.xyz/https://github.com/gkd-kit/gkd/releases/download/v1.8.0-beta.5/gkd-v1.8.0-beta.5.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/gkd.png",
                 "version": "v1.8.0"
             },
