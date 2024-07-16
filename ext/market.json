@@ -480,9 +480,9 @@
             },
             {
                 "name": "LocalSend",
-                "url": "https://github.moeyy.xyz/https://github.com/localsend/localsend/releases/download/v1.14.0/LocalSend-1.14.0.apk",
+                "url": "https://github.moeyy.xyz/https://github.com/localsend/localsend/releases/download/v1.15.0/LocalSend-1.15.0.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/localsend.png",
-                "version": "v1.14.0"
+                "version": "v1.15.0"
             }
         ]
     }
