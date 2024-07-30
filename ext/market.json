@@ -299,12 +299,6 @@
                 "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/kitkat/leanback.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ytv.png",
                 "version": "Android4_v7a"
-            },
-            {
-                "name": "电视-python",
-                "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/kitkat/leanback-python.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ytv.png",
-                "version": "Android4_v7a"
             }
         ]
     },
@@ -441,9 +435,9 @@
             },
             {
                 "name": "阅读",
-                "url": "https://github.moeyy.xyz/https://github.com/gedoor/legado/releases/download/3.23.110211/legado_app_3.23.110211.apk",
+                "url": "https://github.moeyy.xyz/https://github.com/gedoor/legado/releases/download/beta/legado_app_3.24.07301303_release.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/yd.png",
-                "version": "3.23.110211"
+                "version": "3.24.07301303"
             },
             {
                 "name": "阅读书源",
@@ -480,9 +474,9 @@
             },
             {
                 "name": "LocalSend",
-                "url": "https://github.moeyy.xyz/https://github.com/localsend/localsend/releases/download/v1.15.0/LocalSend-1.15.0.apk",
+                "url": "https://github.moeyy.xyz/https://github.com/localsend/localsend/releases/download/v1.15.3/LocalSend-1.15.3.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/localsend.png",
-                "version": "v1.15.0"
+                "version": "v1.15.3"
             }
         ]
     }
