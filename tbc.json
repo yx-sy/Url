@@ -1,6 +1,14 @@
 {
     "urls": [
         {
+            "url": "http://ok321.top/tv",
+            "name": "👌OK弹幕线"
+        },
+        {
+            "url": "http://ok321.top/ok",
+            "name": "👌OK公开线"
+        },
+        {
             "url": "https://www.饭太硬.com/tv",
             "name": "🍚饭•线路"
         }, 
@@ -11,10 +19,6 @@
         {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
             "name": "💨香•线路"
-        },
-        {
-            "url": "http://ok321.top/ok",
-            "name": "👌OK线路"
         },
         {
             "url": "https://肥猫.com",
