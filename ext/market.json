@@ -461,11 +461,11 @@
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ltt.png",
                 "version": "v2.2"
             },
-            {
-                "name": "李跳跳规则",
-                "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yx-sy/Url/master/rule/ltt.txt",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ltt.png"
-            },
+            // {
+                // "name": "李跳跳规则",
+                // "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yx-sy/Url/master/rule/ltt.txt",
+                // "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ltt.png"
+            // },
             {
                 "name": "SKIP",
                 "url": "https://github.moeyy.xyz/https://github.com/GuoXiCheng/SKIP/releases/download/v2.1.1/SKIP-v2.1.1.apk",
