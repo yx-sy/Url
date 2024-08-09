@@ -403,6 +403,12 @@
                 "url": "https://github.moeyy.xyz/https://github.com/yaoxieyoulei/mytv-android/releases/download/v1.4.3/mytv-android-1.4.3.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/wdds_yxyla.png",
                 "version": "v1.4.3"
+            },
+            {
+                "name": "小白文件管理TV版",
+                "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yx-sy/Url/master/app/xbwjgl_TV_v2.8.0.apk",
+                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/xbwjgl.png",
+                "version": "v2.8.0"
             }
         ]
     },
@@ -477,6 +483,12 @@
                 "url": "https://github.moeyy.xyz/https://github.com/localsend/localsend/releases/download/v1.15.3/LocalSend-1.15.3.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/localsend.png",
                 "version": "v1.15.3"
+            },
+            {
+                "name": "甲壳虫ADB",
+                "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yx-sy/Url/master/app/jkc_ADB_v1.3.0.apk",
+                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/jkc.png",
+                "version": "v1.3.0"
             }
         ]
     }
