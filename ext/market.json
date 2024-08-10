@@ -401,7 +401,7 @@
             {
                 "name": "SimpleTV_IPV6",
                 "url": "https://github.moeyy.xyz/https://github.com/Potato-66/SimpleTV/releases/download/v1.0.7/SimpleTV-1.0.7.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/wdds_yxyl.png",
+                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/simple.png",
                 "version": "v1.0.7"
             },
             {
@@ -459,13 +459,13 @@
             {
                 "name": "GKD",
                 "url": "https://github.moeyy.xyz/https://github.com/gkd-kit/gkd/releases/download/v1.8.0-beta.11/gkd-v1.8.0-beta.11.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/gkd.png",
+                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/gkd_n.png",
                 "version": "v1.8.0b11"
             },
             {
                 "name": "GKD订阅",
                 "url": "https://gitee.com/yx-sy/Url/raw/master/rule/gkd.txt",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/gkd.png"
+                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/gkd_n.png"
             },
             {
                 "name": "李跳跳",
