@@ -1,0 +1,9 @@
+{
+	"spider":"./jar/market.jar;md5;ecad922324903cbb06ee4a0c65b45ea5",
+	"sites":[
+		{"key":"🕷网店","name":"🛍影视应用市场","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://gitee.com/yx-sy/Url/raw/master/ext/market.json"},
+		{"key":"🕷本地","name":"🕷打开本地视频","type":3,"api":"csp_Local","searchable":0,"changeable":0}
+	],
+	"logo":"https://gitee.com/yx-sy/img/raw/main/cus/tv.png",
+	"wallpaper":"https://bing.img.run/rand.php"
+}
