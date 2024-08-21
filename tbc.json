@@ -29,7 +29,7 @@
             "name": "⛄道长线路"
         },
         {
-            "url": "./market.json",
+            "url": "https://gitee.com/yx-sy/Url/raw/master/market.json",
             "name": "🛍影视市场"
         }
     ]
