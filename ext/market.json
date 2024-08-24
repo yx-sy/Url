@@ -340,15 +340,15 @@
             },
             {
                 "name": "OurTV_TV",
-                "url": "https://github.moeyy.xyz/https://github.com/andandroidor/ourtv/releases/download/3.2.0/OurTV_3.2.0_android_tv.apk",
+                "url": "https://github.moeyy.xyz/https://github.com/andandroidor/ourtv/releases/download/3.2.1/OurTV_3.2.1_android_tv.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ourtv.png",
-                "version": "v3.2.0"
+                "version": "v3.2.1"
             },
             {
                 "name": "OurTV_Phone",
-                "url": "https://github.moeyy.xyz/https://github.com/andandroidor/ourtv/releases/download/3.2.0/OurTV_3.2.0_android_phone.apk",
+                "url": "https://github.moeyy.xyz/https://github.com/andandroidor/ourtv/releases/download/3.2.1/OurTV_3.2.1_android_phone.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ourtv.png",
-                "version": "v3.2.0"
+                "version": "v3.2.1"
             },
             {
                 "name": "My-TV-O",
@@ -369,9 +369,9 @@
         "list": [
             {
                 "name": "LX Music",
-                "url": "https://github.moeyy.xyz/https://github.com/lyswhut/lx-music-mobile/releases/download/v1.5.0/lx-music-mobile-v1.5.0-arm64-v8a.apk",
+                "url": "https://github.moeyy.xyz/https://github.com/lyswhut/lx-music-mobile/releases/download/v1.6.0/lx-music-mobile-v1.6.0-arm64-v8a.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/lx.png",
-                "version": "v1.5.0"
+                "version": "v1.6.0"
             },
             {
                 "name": "LX音源",
