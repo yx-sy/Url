@@ -174,84 +174,6 @@
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ytv.png",
                 "version": "Release_X5"
             },
-            // {
-                // "name": "开发版",
-                // "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/main/apk/dev/leanback-java-armeabi_v7a.apk",
-                // "icon": "",
-                // "version": "dev"
-            // },
-            // {
-                // "name": "电视-java",
-                // "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/main/apk/dev/leanback-java-armeabi_v7a.apk",
-                // "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ytv.png",
-                // "version": "dev_v7a"
-            // },
-            // {
-                // "name": "电视-java",
-                // "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/main/apk/dev/leanback-java-arm64_v8a.apk",
-                // "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ytv.png",
-                // "version": "dev_v8a"
-            // },
-            // {
-                // "name": "电视-python",
-                // "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/main/apk/dev/leanback-python-armeabi_v7a.apk",
-                // "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ytv.png",
-                // "version": "dev_v7a"
-            // },
-            // {
-                // "name": "电视-python",
-                // "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/main/apk/dev/leanback-python-arm64_v8a.apk",
-                // "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ytv.png",
-                // "version": "dev_v8a"
-            // },
-            // {
-                // "name": "手机-java",
-                // "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/main/apk/dev/mobile-java-armeabi_v7a.apk",
-                // "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ysj.png",
-                // "version": "dev_v7a"
-            // },
-            // {
-                // "name": "手机-java",
-                // "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/main/apk/dev/mobile-java-arm64_v8a.apk",
-                // "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ysj.png",
-                // "version": "dev_v8a"
-            // },
-            // {
-                // "name": "手机-python",
-                // "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/main/apk/dev/mobile-python-armeabi_v7a.apk",
-                // "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ysj.png",
-                // "version": "dev_v7a"
-            // },
-            // {
-                // "name": "手机-python",
-                // "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/main/apk/dev/mobile-python-arm64_v8a.apk",
-                // "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ysj.png",
-                // "version": "dev_v8a"
-            // },
-            // {
-                // "name": "海信专版",
-                // "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/main/apk/dev/海信专版.apk",
-                // "icon": "",
-                // "version": "dev_海信"
-            // },
-            // {
-                // "name": "电视-海信",
-                // "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/main/apk/dev/海信专版.apk",
-                // "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ytv.png",
-                // "version": "dev_海信专版"
-            // },
-            // {
-                // "name": "X5离线版",
-                // "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/main/apk/dev/电视版-X5离线.apk",
-                // "icon": "",
-                // "version": "dev_X5"
-            // },
-            // {
-                // "name": "电视-X5离线",
-                // "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/main/apk/dev/电视版-X5离线.apk",
-                // "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ytv.png",
-                // "version": "dev_X5"
-            // },
             {
                 "name": "安卓4版",
                 "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/main/apk/kitkat/leanback.apk",
@@ -364,15 +286,15 @@
             },
             {
                 "name": "OurTV_TV",
-                "url": "https://github.moeyy.xyz/https://github.com/andandroidor/ourtv/releases/download/3.2.3/OurTV_3.2.3_android_tv.apk",
+                "url": "https://github.moeyy.xyz/https://github.com/andandroidor/ourtv/releases/download/3.2.4/OurTV_3.2.4_android_tv.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ourtv.png",
-                "version": "v3.2.3"
+                "version": "v3.2.4"
             },
             {
                 "name": "OurTV_Phone",
-                "url": "https://github.moeyy.xyz/https://github.com/andandroidor/ourtv/releases/download/3.2.3/OurTV_3.2.3_android_phone.apk",
+                "url": "https://github.moeyy.xyz/https://github.com/andandroidor/ourtv/releases/download/3.2.4/OurTV_3.2.4_android_phone.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ourtv.png",
-                "version": "v3.2.3"
+                "version": "v3.2.4"
             },
             {
                 "name": "My-TV-O",
