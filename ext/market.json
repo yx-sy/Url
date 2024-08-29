@@ -230,46 +230,6 @@
         ]
     },
     {
-        "name": "本地接口",
-        "list": [
-            {
-                "name": "P米饭香•多线",
-                "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yx-sy/Url/master/local/local.zip",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/local.png",
-                "copy": "file://Download/local/local.json",
-                "version": "0512"
-            },
-            {
-                "name": "PG•线路",
-                "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yx-sy/Url/master/local/pg.zip",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/local.png",
-                "copy": "file://Download/local/pg/pg.json",
-                "version": "0512"
-            },
-            {
-                "name": "米•线路",
-                "url": "https://gitee.com/yx-sy/Url/raw/master/local/xiaomi.zip",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/wogg.png",
-                "copy": "file://Download/local/xiaomi/xiaomi.json",
-                "version": "0512"
-            },
-            {
-                "name": "饭•线路",
-                "url": "https://gitee.com/yx-sy/Url/raw/master/local/fty.zip",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/wogg.png",
-                "copy": "file://Download/local/fty/fty.json",
-                "version": "0512"
-            },
-            {
-                "name": "香•线路",
-                "url": "https://gitee.com/yx-sy/Url/raw/master/local/xyq.zip",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/local.png",
-                "copy": "file://Download/local/xyq/xyq.json",
-                "version": "0512"
-            }
-        ]
-    },
-    {
         "name": "电视App",
         "list": [
             {
@@ -365,11 +325,6 @@
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ltt.png",
                 "version": "v2.2"
             },
-            // {
-                // "name": "李跳跳规则",
-                // "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yx-sy/Url/master/rule/ltt.txt",
-                // "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ltt.png"
-            // },
             {
                 "name": "SKIP",
                 "url": "https://github.moeyy.xyz/https://github.com/GuoXiCheng/SKIP/releases/download/v2.1.1/SKIP-v2.1.1.apk",
@@ -387,6 +342,18 @@
                 "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yx-sy/Url/master/app/jkc_ADB_v1.3.0.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/jkc.png",
                 "version": "v1.3.0"
+            }
+        ]
+    },
+    {
+        "name": "local",
+        "list": [
+            {
+                "name": "本地接口",
+                "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yx-sy/Url/master/local/local.zip",
+                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/local.png",
+                "copy": "file://Download/local/local.json",
+                "version": "20240829"
             }
         ]
     }
