@@ -157,7 +157,7 @@
                 "version": "Release_海信专版"
             },
             {
-                "name": "电视-海信",
+                "name": "电视-海信版",
                 "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/海信专版.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ytv.png",
                 "version": "Release_海信"
@@ -246,15 +246,15 @@
             },
             {
                 "name": "OurTV_TV",
-                "url": "https://github.moeyy.xyz/https://github.com/andandroidor/ourtv/releases/download/3.2.4/OurTV_3.2.4_android_tv.apk",
+                "url": "https://github.moeyy.xyz/https://github.com/andandroidor/ourtv/releases/download/3.2.5/OurTV_3.2.5_android_tv.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ourtv.png",
-                "version": "v3.2.4"
+                "version": "v3.2.5"
             },
             {
                 "name": "OurTV_Phone",
-                "url": "https://github.moeyy.xyz/https://github.com/andandroidor/ourtv/releases/download/3.2.4/OurTV_3.2.4_android_phone.apk",
+                "url": "https://github.moeyy.xyz/https://github.com/andandroidor/ourtv/releases/download/3.2.5/OurTV_3.2.5_android_phone.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ourtv.png",
-                "version": "v3.2.4"
+                "version": "v3.2.5"
             },
             {
                 "name": "My-TV-O",
