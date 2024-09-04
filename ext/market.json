@@ -246,15 +246,15 @@
             },
             {
                 "name": "OurTV_TV",
-                "url": "https://github.moeyy.xyz/https://github.com/andandroidor/ourtv/releases/download/3.2.5/OurTV_3.2.5_android_tv.apk",
+                "url": "https://github.moeyy.xyz/https://github.com/andandroidor/ourtv/releases/download/3.2.6/OurTV_3.2.6_android_tv.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ourtv.png",
-                "version": "v3.2.5"
+                "version": "v3.2.6"
             },
             {
                 "name": "OurTV_Phone",
-                "url": "https://github.moeyy.xyz/https://github.com/andandroidor/ourtv/releases/download/3.2.5/OurTV_3.2.5_android_phone.apk",
+                "url": "https://github.moeyy.xyz/https://github.com/andandroidor/ourtv/releases/download/3.2.6/OurTV_3.2.6_android_phone.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ourtv.png",
-                "version": "v3.2.5"
+                "version": "v3.2.6"
             },
             {
                 "name": "My-TV-O",
