@@ -9,7 +9,7 @@
                 "version": "v7a"
             },
             {
-                "name": "电视-Java",
+                "name": "电视-java",
                 "url": "https://gh.jiasu.in/https://raw.githubusercontent.com/lystv/fmapp/main/apk/kitkat/leanback.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ytv.png",
                 "version": "v7a-Android4"
@@ -97,12 +97,6 @@
         "name": "OK影视",
         "list": [
             {
-                "name": "正式版",
-                "url": "https://gh.jiasu.in/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/leanback-java-armeabi_v7a.apk",
-                "icon": "",
-                "version": "Release"
-            },
-            {
                 "name": "电视-java",
                 "url": "https://gh.jiasu.in/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/leanback-java-armeabi_v7a.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ytv.png",
@@ -151,22 +145,10 @@
                 "version": "Release_v8a"
             },
             {
-                "name": "海信专版",
-                "url": "https://gh.jiasu.in/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/海信专版.apk",
-                "icon": "",
-                "version": "Release_海信专版"
-            },
-            {
-                "name": "电视-海信版",
+                "name": "电视-海信专版",
                 "url": "https://gh.jiasu.in/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/海信专版.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ytv.png",
                 "version": "Release_海信"
-            },
-            {
-                "name": "X5离线版",
-                "url": "https://gh.jiasu.in/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/电视版-X5离线.apk",
-                "icon": "",
-                "version": "Release_X5"
             },
             {
                 "name": "电视-X5离线版",
@@ -175,16 +157,10 @@
                 "version": "Release_X5"
             },
             {
-                "name": "安卓4版",
-                "url": "https://gh.jiasu.in/https://raw.githubusercontent.com/lystv/fmapp/main/apk/kitkat/leanback.apk",
-                "icon": "",
-                "version": "Android4.x专用"
-            },
-            {
-                "name": "电视-java",
+                "name": "电视-安卓4版",
                 "url": "https://gh.jiasu.in/https://raw.githubusercontent.com/lystv/fmapp/main/apk/kitkat/leanback.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ytv.png",
-                "version": "Android4_v7a"
+                "version": "Release_v7a"
             }
         ]
     },
@@ -198,14 +174,14 @@
                 "version": "20240829-1202"
             },
             {
-                "name": "v8a_hisense",
-                "url": "https://gh.jiasu.in/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240829-1202/TVBox_takagen99_20240829-1202-arm64-hisense.apk",
+                "name": "v7a_generic",
+                "url": "https://gh.jiasu.in/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240829-1202/TVBox_takagen99_20240829-1202-armeabi-generic.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/tbt.png",
                 "version": "20240829-1202"
             },
             {
-                "name": "v7a_generic",
-                "url": "https://gh.jiasu.in/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240829-1202/TVBox_takagen99_20240829-1202-armeabi-generic.apk",
+                "name": "v8a_hisense",
+                "url": "https://gh.jiasu.in/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240829-1202/TVBox_takagen99_20240829-1202-arm64-hisense.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/tbt.png",
                 "version": "20240829-1202"
             },
