@@ -234,15 +234,15 @@
             },
             {
                 "name": "OurTV_TV",
-                "url": "https://mirror.ghproxy.com/https://github.com/andandroidor/ourtv/releases/download/3.2.6/OurTV_3.2.6_android_tv.apk",
+                "url": "https://mirror.ghproxy.com/https://github.com/andandroidor/ourtv/releases/download/3.2.7/OurTV_3.2.7_android_tv.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ourtv.png",
-                "version": "v3.2.6"
+                "version": "v3.2.7"
             },
             {
                 "name": "OurTV_Phone",
-                "url": "https://mirror.ghproxy.com/https://github.com/andandroidor/ourtv/releases/download/3.2.6/OurTV_3.2.6_android_phone.apk",
+                "url": "https://mirror.ghproxy.com/https://github.com/andandroidor/ourtv/releases/download/3.2.7/OurTV_3.2.7_android_phone.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ourtv.png",
-                "version": "v3.2.6"
+                "version": "v3.2.7"
             },
             {
                 "name": "My-TV-O",
