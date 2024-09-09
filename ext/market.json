@@ -3,52 +3,10 @@
         "name": "推荐",
         "list": [
             {
-                "name": "OK电视-java",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/leanback-java-armeabi_v7a.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/okys_tv.png",
-                "version": "v7a"
-            },
-            {
-                "name": "OK电视-java",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/main/apk/kitkat/leanback.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/okys_tv.png",
-                "version": "v7a-Android4"
-            },
-            {
-                "name": "OK手机-java",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/mobile-java-arm64_v8a.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/okys_mobile.png",
-                "version": "v8a"
-            },
-            {
-                "name": "电视-java",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-armeabi_v7a.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ys_tv.png",
-                "version": "Release_v7a"
-            },
-            {
-                "name": "手机-java",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-arm64_v8a.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ys_mobile.png",
-                "version": "Release_v8a"
-            },
-            {
-                "name": "v8a_generic",  //t版
-                "url": "https://mirror.ghproxy.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240829-1202/TVBox_takagen99_20240829-1202-arm64-generic.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/tbt.png",
-                "version": "20240829-1202"
-            },
-            {
-                "name": "TVBox",  //q版
-                "url": "https://mirror.ghproxy.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20231105-0923/TVBox_q215613905_20231105-0923.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/tbq.png",
-                "version": "20231105-0923"
-            },
-            {
-                "name": "Mbox",
-                "url": "https://mirror.ghproxy.com/https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile/releases/download/v1.1.1/MBox_v1.1.1_release_20240815.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/mbox.png",
-                "version": "v1.1.1"
+                "name": "",
+                "url": "https://gitee.com/yx-sy/img/raw/main/cus/zitiji.png",
+                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/zitiji.png",
+                "version": ""
             }
         ]
     },
@@ -181,27 +139,27 @@
         "list": [
             {
                 "name": "v8a_generic",
-                "url": "https://mirror.ghproxy.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240829-1202/TVBox_takagen99_20240829-1202-arm64-generic.apk",
+                "url": "https://mirror.ghproxy.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240909-0844/TVBox_takagen99_20240909-0844-arm64-generic.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/tbt.png",
-                "version": "20240829-1202"
+                "version": "20240909-0844"
             },
             {
                 "name": "v7a_generic",
-                "url": "https://mirror.ghproxy.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240829-1202/TVBox_takagen99_20240829-1202-armeabi-generic.apk",
+                "url": "https://mirror.ghproxy.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240909-0844/TVBox_takagen99_20240909-0844-armeabi-generic.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/tbt.png",
-                "version": "20240829-1202"
+                "version": "20240909-0844"
             },
             {
                 "name": "v8a_hisense",
-                "url": "https://mirror.ghproxy.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240829-1202/TVBox_takagen99_20240829-1202-arm64-hisense.apk",
+                "url": "https://mirror.ghproxy.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240909-0844/TVBox_takagen99_20240909-0844-arm64-hisense.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/tbt.png",
-                "version": "20240829-1202"
+                "version": "20240909-0844"
             },
             {
                 "name": "v7a_hisense",
-                "url": "https://mirror.ghproxy.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240829-1202/TVBox_takagen99_20240829-1202-armeabi-hisense.apk",
+                "url": "https://mirror.ghproxy.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240909-0844/TVBox_takagen99_20240909-0844-armeabi-hisense.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/tbt.png",
-                "version": "20240829-1202"
+                "version": "20240909-0844"
             },
             {
                 "name": "TVBox",
@@ -234,15 +192,15 @@
             },
             {
                 "name": "OurTV_TV",
-                "url": "https://mirror.ghproxy.com/https://github.com/andandroidor/ourtv/releases/download/3.2.7/OurTV_3.2.7_android_tv.apk",
+                "url": "https://mirror.ghproxy.com/https://github.com/andandroidor/ourtv/releases/download/3.2.8/OurTV_3.2.8_android_tv.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ourtv.png",
-                "version": "v3.2.7"
+                "version": "v3.2.8"
             },
             {
                 "name": "OurTV_Phone",
-                "url": "https://mirror.ghproxy.com/https://github.com/andandroidor/ourtv/releases/download/3.2.7/OurTV_3.2.7_android_phone.apk",
+                "url": "https://mirror.ghproxy.com/https://github.com/andandroidor/ourtv/releases/download/3.2.8/OurTV_3.2.8_android_phone.apk",
                 "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ourtv.png",
-                "version": "v3.2.7"
+                "version": "v3.2.8"
             },
             {
                 "name": "My-TV-O",
