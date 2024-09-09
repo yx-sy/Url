@@ -176,7 +176,7 @@
         ]
     },
     {
-        "name": "电视App",
+        "name": "TV",
         "list": [
             {
                 "name": "MyTV_IPV6",
@@ -217,7 +217,7 @@
         ]
     },
     {
-        "name": "手机App",
+        "name": "Mobile",
         "list": [
             {
                 "name": "LX Music",
@@ -297,9 +297,20 @@
             {
                 "name": "本地接口",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yx-sy/Url/master/local/local.zip",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/local.png",
+                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/folder.png",
                 "copy": "file://Download/local/local.json",
                 "version": "20240829"
+            }
+        ]
+    },
+    {
+        "name": "QR",
+        "list": [
+            {
+                "name": "",
+                "url": "https://gitee.com/yx-sy/img/raw/main/cus/zitiji.png",
+                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/zitiji.png",
+                "version": ""
             }
         ]
     }
