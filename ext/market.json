@@ -4,8 +4,8 @@
         "list": [
             {
                 "name": "",
-                "url": "https://gitee.com/yx-sy/img/raw/main/cus/zitiji.png",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/zitiji.png",
+                "url": "https://gitee.com/yx-sy/imgnp/raw/main/cus/zitiji.png",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/zitiji.png",
                 "version": ""
             }
         ]
@@ -15,50 +15,50 @@
         "list": [
             {
                 "name": "电视-java",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-armeabi_v7a.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ys_tv.png",
+                "url": "https://ghp.ci/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-armeabi_v7a.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_tv.png",
                 "version": "Release_v7a"
             },
             {
                 "name": "电视-java",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-arm64_v8a.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ys_tv.png",
+                "url": "https://ghp.ci/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-arm64_v8a.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_tv.png",
                 "version": "Release_v8a"
             },
             {
                 "name": "电视-python",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-armeabi_v7a.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ys_tv.png",
+                "url": "https://ghp.ci/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-armeabi_v7a.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_tv.png",
                 "version": "Release_v7a"
             },
             {
                 "name": "电视-python",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-arm64_v8a.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ys_tv.png",
+                "url": "https://ghp.ci/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-arm64_v8a.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_tv.png",
                 "version": "Release_v8a"
             },
             {
                 "name": "手机-java",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-armeabi_v7a.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ys_mobile.png",
+                "url": "https://ghp.ci/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-armeabi_v7a.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_mobile.png",
                 "version": "Release_v7a"
             },
             {
                 "name": "手机-java",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-arm64_v8a.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ys_mobile.png",
+                "url": "https://ghp.ci/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-arm64_v8a.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_mobile.png",
                 "version": "Release_v8a"
             },
             {
                 "name": "手机-python",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-armeabi_v7a.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ys_mobile.png",
+                "url": "https://ghp.ci/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-armeabi_v7a.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_mobile.png",
                 "version": "Release_v7a"
             },
             {
                 "name": "手机-python",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-arm64_v8a.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ys_mobile.png",
+                "url": "https://ghp.ci/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-arm64_v8a.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_mobile.png",
                 "version": "Release_v8a"
             }
         ]
@@ -68,68 +68,68 @@
         "list": [
             {
                 "name": "电视-java",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/leanback-java-armeabi_v7a.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/okys_tv.png",
+                "url": "https://ghp.ci/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/leanback-java-armeabi_v7a.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_tv.png",
                 "version": "Release_v7a"
             },
             {
                 "name": "电视-java",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/leanback-java-arm64_v8a.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/okys_tv.png",
+                "url": "https://ghp.ci/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/leanback-java-arm64_v8a.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_tv.png",
                 "version": "Release_v8a"
             },
             {
                 "name": "电视-python",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/leanback-python-armeabi_v7a.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/okys_tv.png",
+                "url": "https://ghp.ci/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/leanback-python-armeabi_v7a.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_tv.png",
                 "version": "Release_v7a"
             },
             {
                 "name": "电视-python",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/leanback-python-arm64_v8a.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/okys_tv.png",
+                "url": "https://ghp.ci/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/leanback-python-arm64_v8a.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_tv.png",
                 "version": "Release_v8a"
             },
             {
                 "name": "电视-安卓4版",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/main/apk/kitkat/leanback.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/okys_tv.png",
+                "url": "https://ghp.ci/https://raw.githubusercontent.com/lystv/fmapp/main/apk/kitkat/leanback.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_tv.png",
                 "version": "Release_v7a"
             },
             {
                 "name": "电视-海信专版",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/海信专版.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/okys_tv.png",
+                "url": "https://ghp.ci/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/海信专版.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_tv.png",
                 "version": "Release_海信"
             },
             {
                 "name": "电视-X5离线版",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/电视版-X5离线.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/okys_tv.png",
+                "url": "https://ghp.ci/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/电视版-X5离线.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_tv.png",
                 "version": "Release_X5"
             },
             {
                 "name": "手机-java",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/mobile-java-armeabi_v7a.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/okys_mobile.png",
+                "url": "https://ghp.ci/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/mobile-java-armeabi_v7a.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_mobile.png",
                 "version": "Release_v7a"
             },
             {
                 "name": "手机-java",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/mobile-java-arm64_v8a.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/okys_mobile.png",
+                "url": "https://ghp.ci/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/mobile-java-arm64_v8a.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_mobile.png",
                 "version": "Release_v8a"
             },
             {
                 "name": "手机-python",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/mobile-python-armeabi_v7a.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/okys_mobile.png",
+                "url": "https://ghp.ci/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/mobile-python-armeabi_v7a.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_mobile.png",
                 "version": "Release_v7a"
             },
             {
                 "name": "手机-python",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/mobile-python-arm64_v8a.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/okys_mobile.png",
+                "url": "https://ghp.ci/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/mobile-python-arm64_v8a.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_mobile.png",
                 "version": "Release_v8a"
             }
         ]
@@ -139,38 +139,38 @@
         "list": [
             {
                 "name": "v8a_generic",
-                "url": "https://mirror.ghproxy.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240909-0844/TVBox_takagen99_20240909-0844-arm64-generic.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/tbt.png",
-                "version": "20240909-0844"
+                "url": "https://ghp.ci/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240914-1409/TVBox_takagen99_20240914-1409-arm64-generic.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/tbt.png",
+                "version": "20240914-1409"
             },
             {
                 "name": "v7a_generic",
-                "url": "https://mirror.ghproxy.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240909-0844/TVBox_takagen99_20240909-0844-armeabi-generic.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/tbt.png",
-                "version": "20240909-0844"
+                "url": "https://ghp.ci/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240914-1409/TVBox_takagen99_20240914-1409-armeabi-generic.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/tbt.png",
+                "version": "20240914-1409"
             },
             {
                 "name": "v8a_hisense",
-                "url": "https://mirror.ghproxy.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240909-0844/TVBox_takagen99_20240909-0844-arm64-hisense.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/tbt.png",
-                "version": "20240909-0844"
+                "url": "https://ghp.ci/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240914-1409/TVBox_takagen99_20240914-1409-arm64-hisense.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/tbt.png",
+                "version": "20240914-1409"
             },
             {
                 "name": "v7a_hisense",
-                "url": "https://mirror.ghproxy.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240909-0844/TVBox_takagen99_20240909-0844-armeabi-hisense.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/tbt.png",
-                "version": "20240909-0844"
+                "url": "https://ghp.ci/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240914-1409/TVBox_takagen99_20240914-1409-armeabi-hisense.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/tbt.png",
+                "version": "20240914-1409"
             },
             {
                 "name": "TVBox",
-                "url": "https://mirror.ghproxy.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20231105-0923/TVBox_q215613905_20231105-0923.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/tbq.png",
+                "url": "https://ghp.ci/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20231105-0923/TVBox_q215613905_20231105-0923.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/tbq.png",
                 "version": "20231105-0923"
             },
             {
                 "name": "Mbox",
-                "url": "https://mirror.ghproxy.com/https://github.com/yx-sy/build_MBox/releases/download/mbox/MBox.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/mbox.png",
+                "url": "https://ghp.ci/https://github.com/yx-sy/build_MBox/releases/download/mbox/MBox.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/mbox.png",
                 "version": "v1.1.1"
             }
         ]
@@ -180,38 +180,38 @@
         "list": [
             {
                 "name": "MyTV_IPV6",
-                "url": "https://mirror.ghproxy.com/https://github.com/yaoxieyoulei/mytv-android/releases/download/tv2.2.1/mytv-android-tv-2.2.1-all-sdk21.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/wdds_yxyla.png",
-                "version": "v2.2.1"
+                "url": "https://ghp.ci/https://github.com/yaoxieyoulei/mytv-android/releases/download/tv2.2.2/mytv-android-tv-2.2.2-all-sdk21.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/wdds_yxyla.png",
+                "version": "v2.2.2"
             },
             {
                 "name": "SimpleTV_IPV6",
-                "url": "https://mirror.ghproxy.com/https://github.com/Potato-66/SimpleTV/releases/download/v1.0.7/SimpleTV-1.0.7.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/simple.png",
+                "url": "https://ghp.ci/https://github.com/Potato-66/SimpleTV/releases/download/v1.0.7/SimpleTV-1.0.7.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/simple.png",
                 "version": "v1.0.7"
             },
             {
                 "name": "OurTV_TV",
-                "url": "https://mirror.ghproxy.com/https://github.com/andandroidor/ourtv/releases/download/3.2.7/OurTV_3.2.7_android_tv.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ourtv.png",
+                "url": "https://ghp.ci/https://github.com/andandroidor/ourtv/releases/download/3.2.7/OurTV_3.2.7_android_tv.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ourtv.png",
                 "version": "v3.2.8"
             },
             {
                 "name": "OurTV_Phone",
-                "url": "https://mirror.ghproxy.com/https://github.com/andandroidor/ourtv/releases/download/3.2.7/OurTV_3.2.7_android_phone.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ourtv.png",
+                "url": "https://ghp.ci/https://github.com/andandroidor/ourtv/releases/download/3.2.7/OurTV_3.2.7_android_phone.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ourtv.png",
                 "version": "v3.2.8"
             },
             {
                 "name": "My-TV-O",
-                "url": "https://mirror.ghproxy.com/https://github.com/lizongying/my-tv-0/releases/download/v1.3.3/my-tv-0-v1.3.3.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/wdds_o.png",
+                "url": "https://ghp.ci/https://github.com/lizongying/my-tv-0/releases/download/v1.3.3/my-tv-0-v1.3.3.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/wdds_o.png",
                 "version": "v1.3.3"
             },
             {
                 "name": "小白文件管理TV版",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yx-sy/Url/master/app/xbwjgl_TV_v2.8.0.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/xbwjgl.png",
+                "url": "https://ghp.ci/https://raw.githubusercontent.com/yx-sy/Url/master/app/xbwjgl_TV_v2.8.0.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/xbwjgl.png",
                 "version": "v2.8.0"
             }
         ]
@@ -221,72 +221,72 @@
         "list": [
             {
                 "name": "LX Music",
-                "url": "https://mirror.ghproxy.com/https://github.com/lyswhut/lx-music-mobile/releases/download/v1.6.0/lx-music-mobile-v1.6.0-arm64-v8a.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/lx.png",
+                "url": "https://ghp.ci/https://github.com/lyswhut/lx-music-mobile/releases/download/v1.6.0/lx-music-mobile-v1.6.0-arm64-v8a.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/lx.png",
                 "version": "v1.6.0"
             },
             {
                 "name": "LX音源",
                 "url": "https://gitee.com/yx-sy/Url/raw/master/source/LXS.txt",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/lx.png",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/lx.png",
                 "version": ""
             },
             {
                 "name": "MusicFree",
-                "url": "https://mirror.ghproxy.com/https://github.com/maotoumao/MusicFree/releases/download/v0.4.0/app-arm64-v8a-release.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/musicfree_a.png",
-                "version": "v0.4.0"
+                "url": "https://ghp.ci/https://github.com/maotoumao/MusicFree/releases/download/v0.4.1/app-arm64-v8a-release.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/musicfree_a.png",
+                "version": "v0.4.1"
             },
             {
                 "name": "MusicFree插件",
                 "url": "https://gitee.com/yx-sy/Url/raw/master/source/MFP.txt",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/musicfree_a.png",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/musicfree_a.png",
                 "version": ""
             },
             {
                 "name": "阅读",
-                "url": "https://mirror.ghproxy.com/https://github.com/gedoor/legado/releases/download/3.25/legado_app_3.25.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/yd.png",
+                "url": "https://ghp.ci/https://github.com/gedoor/legado/releases/download/3.25/legado_app_3.25.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/yd.png",
                 "version": "v3.25"
             },
             {
                 "name": "阅读书源",
                 "url": "https://bitbucket.org/xiu2/yuedu/raw/master/dist/img/QRCode-mirror-ghproxy-com.png",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/yd.png"
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/yd.png"
             },
             {
                 "name": "GKD",
-                "url": "https://mirror.ghproxy.com/https://github.com/gkd-kit/gkd/releases/download/v1.8.0/gkd-v1.8.0.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/gkd_n.png",
+                "url": "https://ghp.ci/https://github.com/gkd-kit/gkd/releases/download/v1.8.0/gkd-v1.8.0.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/gkd_n.png",
                 "version": "v1.8.0"
             },
             {
                 "name": "GKD订阅",
                 "url": "https://gitee.com/yx-sy/Url/raw/master/rule/gkd.txt",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/gkd_n.png"
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/gkd_n.png"
             },
             {
                 "name": "李跳跳",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yx-sy/Url/master/app/ltt_v2.2.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/ltt.png",
+                "url": "https://ghp.ci/https://raw.githubusercontent.com/yx-sy/Url/master/app/ltt_v2.2.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ltt.png",
                 "version": "v2.2"
             },
             {
                 "name": "SKIP",
-                "url": "https://mirror.ghproxy.com/https://github.com/GuoXiCheng/SKIP/releases/download/v2.1.1/SKIP-v2.1.1.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/skip.png",
+                "url": "https://ghp.ci/https://github.com/GuoXiCheng/SKIP/releases/download/v2.1.1/SKIP-v2.1.1.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/skip.png",
                 "version": "v2.1.1"
             },
             {
                 "name": "LocalSend",
-                "url": "https://mirror.ghproxy.com/https://github.com/localsend/localsend/releases/download/v1.15.4/LocalSend-1.15.4-android-arm64v8.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/localsend.png",
+                "url": "https://ghp.ci/https://github.com/localsend/localsend/releases/download/v1.15.4/LocalSend-1.15.4-android-arm64v8.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/localsend.png",
                 "version": "v1.15.4"
             },
             {
                 "name": "甲壳虫ADB",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yx-sy/Url/master/app/jkc_ADB_v1.3.0.apk",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/jkc.png",
+                "url": "https://ghp.ci/https://raw.githubusercontent.com/yx-sy/Url/master/app/jkc_ADB_v1.3.0.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/jkc.png",
                 "version": "v1.3.0"
             }
         ]
@@ -296,8 +296,8 @@
         "list": [
             {
                 "name": "本地接口",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yx-sy/Url/master/local/local.zip",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/local.png",
+                "url": "https://ghp.ci/https://raw.githubusercontent.com/yx-sy/Url/master/local/local.zip",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/local.png",
                 "copy": "file://Download/local/local.json",
                 "version": "20240829"
             }
@@ -308,8 +308,8 @@
         "list": [
             {
                 "name": "",
-                "url": "https://gitee.com/yx-sy/img/raw/main/cus/zitiji.png",
-                "icon": "https://gitee.com/yx-sy/img/raw/main/cus/zitiji.png",
+                "url": "https://gitee.com/yx-sy/imgnp/raw/main/cus/zitiji.png",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/zitiji.png",
                 "version": ""
             }
         ]
