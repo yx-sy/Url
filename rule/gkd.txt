@@ -1,3 +1,3 @@
 订阅链接：
 
-https://github.moeyy.xyz/https://raw.githubusercontent.com/AIsouler/GKD_subscription/main/dist/AIsouler_gkd.json5
+https://ghp.ci/https://raw.githubusercontent.com/AIsouler/GKD_subscription/main/dist/AIsouler_gkd.json5
