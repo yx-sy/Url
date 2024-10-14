@@ -6,6 +6,6 @@
 		{"key":"🕷本地","name":"🕷打开•本地视频","type":3,"api":"csp_Local","searchable":0,"changeable":0}
 	],
 	"lives":[{"name":"🛸电视接口","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u"}],
-	"logo":"https://gitee.com/yx-sy/img/raw/main/cus/tv.png",
+	"logo":"https://gitee.com/yx-sy/imgnp/raw/main/cus/tv.png",
 	"wallpaper":"https://bing.img.run/rand.php"
 }
