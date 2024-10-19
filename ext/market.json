@@ -180,9 +180,9 @@
         "list": [
             {
                 "name": "OurTV",
-                "url": "https://ghp.ci/https://github.com/andandroidor/ourtv/releases/download/3.3.2/OurTV_3.3.2_android_tv.apk",
+                "url": "https://ghp.ci/https://github.com/andandroidor/ourtv/releases/download/3.4.0/OurTV_3.4.0_android_tv.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ourtv.png",
-                "version": "v3.3.2"
+                "version": "v3.4.0"
             },
             {
                 "name": "MyTV_IPV6",
@@ -197,16 +197,28 @@
                 "version": "v1.0.7"
             },
             {
-                "name": "My-TV-O",
-                "url": "https://ghp.ci/https://github.com/lizongying/my-tv-0/releases/download/v1.3.7.19-kitkat/my-tv-0.1.3.7.19-kitkat.apk",
+                "name": "MyTV-O",
+                "url": "https://ghp.ci/https://github.com/lizongying/my-tv-0/releases/download/v1.3.7.18/my-tv-0.1.3.7.19.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/wdds_o.png",
                 "version": "v1.3.7"
             },
             {
+                "name": "MyTV-O",
+                "url": "https://ghp.ci/https://github.com/lizongying/my-tv-0/releases/download/v1.3.7.18/my-tv-0.1.3.7.19.china-mobile.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/wdds_o.png",
+                "version": "chinamobile_v1.3.7"
+            },
+            {
+                "name": "MyTV-O",
+                "url": "https://ghp.ci/https://github.com/lizongying/my-tv-0/releases/download/v1.3.7.18/my-tv-0.1.3.7.19.ipv6.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/wdds_o.png",
+                "version": "ipv6_v1.3.7"
+            },
+            {
                 "name": "WebView电视",
-                "url": "https://ghp.ci/https://github.com/hxh19950701/WebViewTvLive/releases/download/1.5/app-debug.apk",
+                "url": "https://ghp.ci/https://github.com/hxh19950701/WebViewTvLive/releases/download/1.2/app-debug.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/dsj.png",
-                "version": "v1.5"
+                "version": "v1.2"
             },
             {
                 "name": "电视浏览器",
