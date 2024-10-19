@@ -1,5 +1,5 @@
 {
-	"spider":"./jar/market.jar;md5;ecad922324903cbb06ee4a0c65b45ea5",
+	"spider":"./jar/store.jar;md5;638afa7d2aa4da1e7b89e65e85930c28",
 	"sites":[
 		{"key":"🕷市场","name":"🛍影视•应用市场","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./ext/market.json"},
 		{"key":"🕷发布","name":"🛒影视•发布商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://ghp.ci/https://raw.githubusercontent.com/lystv/fmapp/app/yysd.json"},
