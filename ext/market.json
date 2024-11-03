@@ -163,9 +163,9 @@
             },
             {
                 "name": "TVBox",
-                "url": "https://ghp.ci/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240925-0957/TVBox_q215613905_20240925-0957.apk",
+                "url": "https://ghp.ci/https://github.com/roacn/TVBoxOSC/releases/download/20241029-0923/TVBox_q215613905_20241029-0923.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/tbq.png",
-                "version": "20240925-0957"
+                "version": "20241029-0923"
             },
             {
                 "name": "Mbox",
@@ -186,9 +186,9 @@
             },
             {
                 "name": "MyTV_IPV6",
-                "url": "https://ghp.ci/https://github.com/yaoxieyoulei/mytv-android/releases/download/tv2.2.4/mytv-android-tv-2.2.4-all-sdk21.apk",
+                "url": "https://ghp.ci/https://github.com/yaoxieyoulei/mytv-android/releases/download/tv2.2.5/mytv-android-tv-2.2.5-all-sdk21.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/wdds_yxyla.png",
-                "version": "v2.2.4"
+                "version": "v2.2.5"
             },
             {
                 "name": "SimpleTV_IPV6",
@@ -198,27 +198,21 @@
             },
             {
                 "name": "MyTV-O",
-                "url": "https://ghp.ci/https://github.com/lizongying/my-tv-0/releases/download/v1.3.7.18/my-tv-0.1.3.7.19.apk",
+                "url": "https://ghp.ci/https://github.com/lizongying/my-tv-0/releases/download/v1.3.8/my-tv-0.1.3.8.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/wdds_o.png",
-                "version": "v1.3.7"
+                "version": "v1.3.8"
             },
             {
                 "name": "MyTV-O",
-                "url": "https://ghp.ci/https://github.com/lizongying/my-tv-0/releases/download/v1.3.7.18/my-tv-0.1.3.7.19.china-mobile.apk",
+                "url": "https://ghp.ci/https://github.com/lizongying/my-tv-0/releases/download/v1.3.8/my-tv-0.1.3.8.china-mobile.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/wdds_o.png",
-                "version": "chinamobile_v1.3.7"
+                "version": "v1.3.8_chinamobile"
             },
             {
                 "name": "MyTV-O",
-                "url": "https://ghp.ci/https://github.com/lizongying/my-tv-0/releases/download/v1.3.7.18/my-tv-0.1.3.7.19.ipv6.apk",
+                "url": "https://ghp.ci/https://github.com/lizongying/my-tv-0/releases/download/v1.3.8/my-tv-0.1.3.8.ipv6.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/wdds_o.png",
-                "version": "ipv6_v1.3.7"
-            },
-            {
-                "name": "WebView电视",
-                "url": "https://ghp.ci/https://github.com/hxh19950701/WebViewTvLive/releases/download/1.2/app-debug.apk",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/dsj.png",
-                "version": "v1.2"
+                "version": "v1.3.8_ipv6"
             },
             {
                 "name": "电视浏览器",
@@ -244,6 +238,12 @@
         "name": "Mobile",
         "list": [
             {
+                "name": "LocalSend",
+                "url": "https://ghp.ci/https://github.com/localsend/localsend/releases/download/v1.16.0/LocalSend-1.16.0-android-arm64v8.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/localsend.png",
+                "version": "v1.16.0"
+            },
+            {
                 "name": "LX Music",
                 "url": "https://ghp.ci/https://github.com/lyswhut/lx-music-mobile/releases/download/v1.6.0/lx-music-mobile-v1.6.0-arm64-v8a.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/lx.png",
@@ -257,9 +257,9 @@
             },
             {
                 "name": "MusicFree",
-                "url": "https://ghp.ci/https://github.com/maotoumao/MusicFree/releases/download/v0.4.2/app-arm64-v8a-release.apk",
+                "url": "https://ghp.ci/https://github.com/maotoumao/MusicFree/releases/download/v0.4.3/app-arm64-v8a-release.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/musicfree_a.png",
-                "version": "v0.4.2"
+                "version": "v0.4.3"
             },
             {
                 "name": "MusicFree插件",
@@ -280,20 +280,14 @@
             },
             {
                 "name": "GKD",
-                "url": "https://ghp.ci/https://github.com/gkd-kit/gkd/releases/download/v1.9.0-beta.1/gkd-v1.9.0-beta.1.apk",
+                "url": "https://ghp.ci/https://github.com/gkd-kit/gkd/releases/download/v1.9.0/gkd-v1.9.0.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/gkd_n.png",
-                "version": "v1.9.0-beta.1"
+                "version": "v1.9.0"
             },
             {
                 "name": "GKD订阅",
                 "url": "https://gitee.com/yx-sy/Url/raw/master/rule/gkd.txt",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/gkd_n.png"
-            },
-            {
-                "name": "李跳跳",
-                "url": "https://ghp.ci/https://raw.githubusercontent.com/yx-sy/Url/master/app/ltt_v2.2.apk",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ltt.png",
-                "version": "v2.2"
             },
             {
                 "name": "SKIP",
@@ -302,10 +296,10 @@
                 "version": "v3.0.0"
             },
             {
-                "name": "LocalSend",
-                "url": "https://ghp.ci/https://github.com/localsend/localsend/releases/download/v1.15.4/LocalSend-1.15.4-android-arm64v8.apk",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/localsend.png",
-                "version": "v1.15.4"
+                "name": "李跳跳",
+                "url": "https://ghp.ci/https://raw.githubusercontent.com/yx-sy/Url/master/app/ltt_v2.2.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ltt.png",
+                "version": "v2.2"
             },
             {
                 "name": "甲壳虫ADB",
