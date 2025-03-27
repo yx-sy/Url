@@ -138,34 +138,40 @@
         "name": "TVBox",
         "list": [
             {
+                "name": "TVBox_normal",
+                "url": "https://gh.tryxd.cn/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20250326-1801/TVBox_q215613905_20250326-1801-normal.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/tbq.png",
+                "version": "20250326-1801"
+            },
+            {
+                "name": "TVBox_python",
+                "url": "https://gh.tryxd.cn/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20250326-1801/TVBox_q215613905_20250326-1801-python.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/tbq.png",
+                "version": "20250326-1801"
+            },
+            {
                 "name": "v8a_generic",
-                "url": "https://gh.tryxd.cn/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20250217-1618/TVBox_takagen99_20250217-1618-arm64-generic.apk",
+                "url": "https://gh.tryxd.cn/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20250325-0046/TVBox_takagen99_20250325-0046-arm64-generic.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/tbt.png",
-                "version": "20250217-1618"
+                "version": "20250325-0046"
             },
             {
                 "name": "v7a_generic",
-                "url": "https://gh.tryxd.cn/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20250217-1618/TVBox_takagen99_20250217-1618-armeabi-generic.apk",
+                "url": "https://gh.tryxd.cn/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20250325-0046/TVBox_takagen99_20250325-0046-armeabi-generic.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/tbt.png",
-                "version": "20250217-1618"
+                "version": "20250325-0046"
             },
             {
                 "name": "v8a_hisense",
-                "url": "https://gh.tryxd.cn/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20250217-1618/TVBox_takagen99_20250217-1618-arm64-hisense.apk",
+                "url": "https://gh.tryxd.cn/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20250325-0046/TVBox_takagen99_20250325-0046-arm64-hisense.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/tbt.png",
-                "version": "20250217-1618"
+                "version": "20250325-0046"
             },
             {
                 "name": "v7a_hisense",
-                "url": "https://gh.tryxd.cn/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20250217-1618/TVBox_takagen99_20250217-1618-armeabi-hisense.apk",
+                "url": "https://gh.tryxd.cn/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20250325-0046/TVBox_takagen99_20250325-0046-armeabi-hisense.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/tbt.png",
-                "version": "20250217-1618"
-            },
-            {
-                "name": "TVBox",
-                "url": "https://gh.tryxd.cn/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20250311-0026/TVBox_q215613905_20250311-0026.apk",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/tbq.png",
-                "version": "20250311-0026"
+                "version": "20250325-0046"
             },
             {
                 "name": "Mbox",
@@ -186,9 +192,9 @@
             },
             {
                 "name": "OurTV",
-                "url": "https://gh.tryxd.cn/https://github.com/andandroidor/ourtv/releases/download/3.6.9/OurTV_3.6.9_android_tv.apk",
+                "url": "https://gh.tryxd.cn/https://github.com/andandroidor/ourtv/releases/download/3.7.0/OurTV_3.7.0_android_tv.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ourtv.png",
-                "version": "v3.6.9"
+                "version": "v3.7.0"
             },
             // {
                 // "name": "SimpleTV_IPV6",
