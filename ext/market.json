@@ -3,10 +3,34 @@
         "name": "推荐",
         "list": [
             {
-                "name": "",
-                "url": "https://gitee.com/yx-sy/imgnp/raw/main/cus/zitiji.png",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/zitiji.png",
-                "version": ""
+                "name": "电视_fm",
+                "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-arm64_v8a.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_tv.png",
+                "version": "Java_v8a"
+            },
+            {
+                "name": "手机_fm",
+                "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-arm64_v8a.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_mobile.png",
+                "version": "Java_v8a"
+            },
+            {
+                "name": "电视_ok",
+                "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/leanback-java-arm64_v8a.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_tv.png",
+                "version": "Java_v8a"
+            },
+            {
+                "name": "手机_ok",
+                "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/mobile-java-arm64_v8a.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_mobile.png",
+                "version": "Java_v8a"
+            },
+            {
+                "name": "TVBox_java",
+                "url": "https://gh.tryxd.cn/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20250418-1512/TVBox_q215613905_20250418-1512-java.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/tbq.png",
+                "version": "20250418-1512"
             }
         ]
     },
@@ -138,16 +162,16 @@
         "name": "TVBox",
         "list": [
             {
-                "name": "TVBox_normal",
-                "url": "https://gh.tryxd.cn/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20250326-1801/TVBox_q215613905_20250326-1801-normal.apk",
+                "name": "TVBox_java",
+                "url": "https://gh.tryxd.cn/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20250418-1512/TVBox_q215613905_20250418-1512-java.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/tbq.png",
-                "version": "20250326-1801"
+                "version": "20250418-1512"
             },
             {
                 "name": "TVBox_python",
-                "url": "https://gh.tryxd.cn/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20250326-1801/TVBox_q215613905_20250326-1801-python.apk",
+                "url": "https://gh.tryxd.cn/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20250418-1512/TVBox_q215613905_20250418-1512-python.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/tbq.png",
-                "version": "20250326-1801"
+                "version": "20250418-1512"
             },
             {
                 "name": "v8a_generic",
@@ -188,13 +212,13 @@
                 "name": "小飞TV",
                 "url": "https://gh.tryxd.cn/https://github.com/yx-sy/Url/releases/download/app/xiaofeitv.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/xiaofei.png",
-                "version": "v2.4.6"
+                "version": "v2.6.1"
             },
             {
                 "name": "OurTV",
-                "url": "https://gh.tryxd.cn/https://github.com/andandroidor/ourtv/releases/download/3.7.0/OurTV_3.7.0_android_tv.apk",
+                "url": "https://gh.tryxd.cn/https://github.com/andandroidor/ourtv/releases/download/3.8.0/OurTV_3.8.0_android_tv.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ourtv.png",
-                "version": "v3.7.0"
+                "version": "v3.8.0"
             },
             // {
                 // "name": "SimpleTV_IPV6",
@@ -307,17 +331,6 @@
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/local.png",
                 "copy": "file://Download/local/drpy/index.json",
                 "version": "道长_20241013"
-            }
-        ]
-    },
-    {
-        "name": "QR",
-        "list": [
-            {
-                "name": "",
-                "url": "https://gitee.com/yx-sy/imgnp/raw/main/cus/zitiji.png",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/zitiji.png",
-                "version": ""
             }
         ]
     }
