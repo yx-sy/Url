@@ -28,9 +28,9 @@
             },
             {
                 "name": "TVBox_java",
-                "url": "https://gh.tryxd.cn/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20250418-1512/TVBox_q215613905_20250418-1512-java.apk",
+                "url": "https://gh.tryxd.cn/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20250420-1650/TVBox_q215613905_20250420-1650-java.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/tbq.png",
-                "version": "20250418-1512"
+                "version": "20250420-1650"
             }
         ]
     },
@@ -163,15 +163,15 @@
         "list": [
             {
                 "name": "TVBox_java",
-                "url": "https://gh.tryxd.cn/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20250418-1512/TVBox_q215613905_20250418-1512-java.apk",
+                "url": "https://gh.tryxd.cn/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20250420-1650/TVBox_q215613905_20250420-1650-java.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/tbq.png",
-                "version": "20250418-1512"
+                "version": "20250420-1650"
             },
             {
                 "name": "TVBox_python",
-                "url": "https://gh.tryxd.cn/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20250418-1512/TVBox_q215613905_20250418-1512-python.apk",
+                "url": "https://gh.tryxd.cn/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20250420-1650/TVBox_q215613905_20250420-1650-python.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/tbq.png",
-                "version": "20250418-1512"
+                "version": "20250420-1650"
             },
             {
                 "name": "v8a_generic",
@@ -208,6 +208,12 @@
     {
         "name": "TV",
         "list": [
+            {
+                "name": "电视直播",
+                "url": "https://gh.tryxd.cn/https://github.com/mytv-android/mytv-android/releases/download/V1.1.0.111/mytv-android-tv-1.1.0.111-all-sdk21-disguised.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/wdds_yxyla.png",
+                "version": "v1.1.0.111"
+            },
             {
                 "name": "小飞TV",
                 "url": "https://gh.tryxd.cn/https://github.com/yx-sy/Url/releases/download/app/xiaofeitv.apk",
