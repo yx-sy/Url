@@ -210,16 +210,16 @@
         "list": [
             {
                 "name": "电视直播",
-                "url": "https://gh.tryxd.cn/https://github.com/mytv-android/mytv-android/releases/download/V1.1.0.111/mytv-android-tv-1.1.0.111-all-sdk21-disguised.apk",
+                "url": "https://gh.tryxd.cn/https://github.com/mytv-android/mytv-android/releases/download/V1.1.0.112/mytv-android-tv-1.1.0.112-all-sdk21-disguised.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/wdds_yxyla.png",
-                "version": "v1.1.0.111"
+                "version": "v1.1.0.112"
             },
-            {
-                "name": "小飞TV",
-                "url": "https://gh.tryxd.cn/https://github.com/yx-sy/Url/releases/download/app/xiaofeitv.apk",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/xiaofei.png",
-                "version": "v2.6.1"
-            },
+            // {
+                // "name": "小飞TV",
+                // "url": "https://gh.tryxd.cn/https://github.com/yx-sy/Url/releases/download/app/xiaofeitv.apk",
+                // "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/xiaofei.png",
+                // "version": "v2.6.1"
+            // },
             {
                 "name": "OurTV",
                 "url": "https://gh.tryxd.cn/https://github.com/andandroidor/ourtv/releases/download/3.8.0/OurTV_3.8.0_android_tv.apk",
