@@ -210,9 +210,9 @@
         "list": [
             {
                 "name": "电视直播",
-                "url": "https://gh.tryxd.cn/https://github.com/mytv-android/mytv-android/releases/download/V1.1.0.112/mytv-android-tv-1.1.0.112-all-sdk21-disguised.apk",
+                "url": "https://gh.tryxd.cn/https://github.com/mytv-android/mytv-android/releases/download/V1.1.0.113/mytv-android-tv-1.1.0.113-all-sdk21-disguised.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/wdds_yxyla.png",
-                "version": "v1.1.0.112"
+                "version": "v1.1.0.113"
             },
             // {
                 // "name": "小飞TV",
@@ -303,9 +303,9 @@
             },
             {
                 "name": "SKIP",
-                "url": "https://gh.tryxd.cn/https://github.com/GuoXiCheng/SKIP/releases/download/v3.0.0/SKIP-v3.0.0.apk",
+                "url": "https://gh.tryxd.cn/https://github.com/GuoXiCheng/SKIP/releases/download/v3.1.0/SKIP-v3.1.0.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/skip.png",
-                "version": "v3.0.0"
+                "version": "v3.1.0"
             },
             {
                 "name": "李跳跳",
