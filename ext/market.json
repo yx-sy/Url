@@ -4,27 +4,27 @@
         "list": [
             {
                 "name": "电视_fm",
-                "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-arm64_v8a.apk",
+                "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-arm64_v8a.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_tv.png",
-                "version": "Java_v8a"
+                "version": "v8a"
             },
             {
                 "name": "手机_fm",
-                "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-arm64_v8a.apk",
+                "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-arm64_v8a.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_mobile.png",
-                "version": "Java_v8a"
+                "version": "v8a"
             },
             {
                 "name": "电视_ok",
-                "url": "https://goppx.com/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/leanback-java-arm64_v8a.apk",
+                "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/leanback-arm64_v8a.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_tv.png",
-                "version": "Java_v8a"
+                "version": "v8a"
             },
             {
                 "name": "手机_ok",
-                "url": "https://goppx.com/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/mobile-java-arm64_v8a.apk",
+                "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/mobile-arm64_v8a.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_mobile.png",
-                "version": "Java_v8a"
+                "version": "v8a"
             },
             {
                 "name": "TVBox_java",
@@ -39,52 +39,76 @@
         "list": [
             {
                 "name": "电视",
-                "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-armeabi_v7a.apk",
+                "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-arm64_v8a.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_tv.png",
-                "version": "Java_v7a"
+                "version": "v8a"
             },
             {
                 "name": "电视",
-                "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-arm64_v8a.apk",
+                "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-armeabi_v7a.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_tv.png",
-                "version": "Java_v8a"
-            },
-            {
-                "name": "电视",
-                "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-armeabi_v7a.apk",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_tv.png",
-                "version": "python_v7a"
-            },
-            {
-                "name": "电视",
-                "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-arm64_v8a.apk",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_tv.png",
-                "version": "python_v8a"
+                "version": "v7a"
             },
             {
                 "name": "手机",
-                "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-armeabi_v7a.apk",
+                "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-arm64_v8a.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_mobile.png",
-                "version": "Java_v7a"
+                "version": "v8a"
             },
             {
                 "name": "手机",
-                "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-arm64_v8a.apk",
+                "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-armeabi_v7a.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_mobile.png",
-                "version": "Java_v8a"
-            },
-            {
-                "name": "手机",
-                "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-armeabi_v7a.apk",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_mobile.png",
-                "version": "python_v7a"
-            },
-            {
-                "name": "手机",
-                "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-arm64_v8a.apk",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_mobile.png",
-                "version": "python_v8a"
+                "version": "v7a"
             }
+            // {
+                // "name": "电视",
+                // "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-armeabi_v7a.apk",
+                // "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_tv.png",
+                // "version": "Java_v7a"
+            // },
+            // {
+                // "name": "电视",
+                // "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-arm64_v8a.apk",
+                // "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_tv.png",
+                // "version": "Java_v8a"
+            // },
+            // {
+                // "name": "电视",
+                // "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-armeabi_v7a.apk",
+                // "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_tv.png",
+                // "version": "python_v7a"
+            // },
+            // {
+                // "name": "电视",
+                // "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-arm64_v8a.apk",
+                // "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_tv.png",
+                // "version": "python_v8a"
+            // },
+            // {
+                // "name": "手机",
+                // "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-armeabi_v7a.apk",
+                // "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_mobile.png",
+                // "version": "Java_v7a"
+            // },
+            // {
+                // "name": "手机",
+                // "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-arm64_v8a.apk",
+                // "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_mobile.png",
+                // "version": "Java_v8a"
+            // },
+            // {
+                // "name": "手机",
+                // "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-armeabi_v7a.apk",
+                // "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_mobile.png",
+                // "version": "python_v7a"
+            // },
+            // {
+                // "name": "手机",
+                // "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-arm64_v8a.apk",
+                // "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_mobile.png",
+                // "version": "python_v8a"
+            // }
         ]
     },
     {
@@ -92,83 +116,101 @@
         "list": [
             {
                 "name": "电视",
-                "url": "https://goppx.com/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/leanback-java-armeabi_v7a.apk",
+                "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/leanback-arm64_v8a.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_tv.png",
-                "version": "Java_v7a"
+                "version": "v8a"
             },
             {
                 "name": "电视",
-                "url": "https://goppx.com/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/leanback-java-arm64_v8a.apk",
+                "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/leanback-armeabi_v7a.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_tv.png",
-                "version": "Java_v8a"
+                "version": "v7a"
             },
             {
                 "name": "电视",
-                "url": "https://goppx.com/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/leanback-python-armeabi_v7a.apk",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_tv.png",
-                "version": "python_v7a"
-            },
-            {
-                "name": "电视",
-                "url": "https://goppx.com/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/leanback-python-arm64_v8a.apk",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_tv.png",
-                "version": "python_v8a"
-            },
-            {
-                "name": "电视",
-                "url": "https://goppx.com/https://raw.githubusercontent.com/lystv/fmapp/main/apk/kitkat/leanback.apk",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_tv.png",
-                "version": "安卓4版"
-            },
-            {
-                "name": "电视",
-                "url": "https://goppx.com/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/海信专版.apk",
+                "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/海信专版.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_tv.png",
                 "version": "海信专版"
             },
             {
                 "name": "电视",
-                "url": "https://goppx.com/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/电视版-X5离线.apk",
+                "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/电视版-X5离线.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_tv.png",
                 "version": "X5离线版"
             },
             {
                 "name": "手机",
-                "url": "https://goppx.com/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/mobile-java-armeabi_v7a.apk",
+                "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/mobile-arm64_v8a.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_mobile.png",
-                "version": "Java_v7a"
+                "version": "v8a"
             },
             {
                 "name": "手机",
-                "url": "https://goppx.com/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/mobile-java-arm64_v8a.apk",
+                "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/mobile-armeabi_v7a.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_mobile.png",
-                "version": "Java_v8a"
-            },
-            {
-                "name": "手机",
-                "url": "https://goppx.com/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/mobile-python-armeabi_v7a.apk",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_mobile.png",
-                "version": "python_v7a"
-            },
-            {
-                "name": "手机",
-                "url": "https://goppx.com/https://raw.githubusercontent.com/lystv/fmapp/main/apk/release/mobile-python-arm64_v8a.apk",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_mobile.png",
-                "version": "python_v8a"
+                "version": "v7a"
             }
+            // {
+                // "name": "电视",
+                // "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/leanback-java-armeabi_v7a.apk",
+                // "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_tv.png",
+                // "version": "Java_v7a"
+            // },
+            // {
+                // "name": "电视",
+                // "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/leanback-java-arm64_v8a.apk",
+                // "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_tv.png",
+                // "version": "Java_v8a"
+            // },
+            // {
+                // "name": "电视",
+                // "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/leanback-python-armeabi_v7a.apk",
+                // "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_tv.png",
+                // "version": "python_v7a"
+            // },
+            // {
+                // "name": "电视",
+                // "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/leanback-python-arm64_v8a.apk",
+                // "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_tv.png",
+                // "version": "python_v8a"
+            // },
+            // {
+                // "name": "手机",
+                // "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/mobile-java-armeabi_v7a.apk",
+                // "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_mobile.png",
+                // "version": "Java_v7a"
+            // },
+            // {
+                // "name": "手机",
+                // "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/mobile-java-arm64_v8a.apk",
+                // "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_mobile.png",
+                // "version": "Java_v8a"
+            // },
+            // {
+                // "name": "手机",
+                // "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/mobile-python-armeabi_v7a.apk",
+                // "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_mobile.png",
+                // "version": "python_v7a"
+            // },
+            // {
+                // "name": "手机",
+                // "url": "https://goppx.com/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/mobile-python-arm64_v8a.apk",
+                // "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_mobile.png",
+                // "version": "python_v8a"
+            // }
         ]
     },
     {
         "name": "TVBox",
         "list": [
             {
-                "name": "TVBox_java",
+                "name": "java",
                 "url": "https://goppx.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20250513-1430/TVBox_q215613905_20250513-1430-java.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/tbq.png",
                 "version": "20250513-1430"
             },
             {
-                "name": "TVBox_python",
+                "name": "python",
                 "url": "https://goppx.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20250513-1430/TVBox_q215613905_20250513-1430-python.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/tbq.png",
                 "version": "20250513-1430"
@@ -209,35 +251,23 @@
         "name": "TV",
         "list": [
             {
-                "name": "电视直播",
-                "url": "https://goppx.com/https://github.com/mytv-android/mytv-android/releases/download/V1.1.1.132/mytv-android-tv-1.1.1.132-all-sdk21-disguised.apk",
+                "name": "电视直播-v8a",
+                "url": "https://goppx.com/https://github.com/mytv-android/mytv-android/releases/download/V1.2.0.141/mytv-android-tv-1.2.0.141-arm64-v8a-sdk21-original.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/wdds_yxyla.png",
-                "version": "v1.1.1.132"
+                "version": "V1.2.0.141"
             },
-            // {
-                // "name": "小飞TV",
-                // "url": "https://goppx.com/https://github.com/yx-sy/Url/releases/download/app/xiaofeitv.apk",
-                // "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/xiaofei.png",
-                // "version": "v2.6.1"
-            // },
+            {
+                "name": "电视直播-v7a",
+                "url": "https://goppx.com/https://github.com/mytv-android/mytv-android/releases/download/V1.2.0.141/mytv-android-tv-1.2.0.141-armeabi-v7a-sdk21-original.apk",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/wdds_yxyla.png",
+                "version": "V1.2.0.141"
+            },
             {
                 "name": "OurTV",
                 "url": "https://goppx.com/https://github.com/andandroidor/ourtv/releases/download/3.8.0/OurTV_3.8.0_android_tv.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ourtv.png",
                 "version": "v3.8.0"
             },
-            // {
-                // "name": "SimpleTV_IPV6",
-                // "url": "https://goppx.com/https://github.com/Potato-66/SimpleTV/releases/download/v1.0.7/SimpleTV-1.0.7.apk",
-                // "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/simple.png",
-                // "version": "v1.0.7"
-            // },
-            // {
-                // "name": "MyTV-O",
-                // "url": "https://goppx.com/https://github.com/lizongying/my-tv-0/releases/download/v1.3.8.5/my-tv-0.1.3.8.5.apk",
-                // "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/wdds_o.png",
-                // "version": "v1.3.8.5"
-            // },
             {
                 "name": "小白文件管理TV版",
                 "url": "https://goppx.com/https://raw.githubusercontent.com/yx-sy/Url/master/app/xbwjgl_TV_v2.8.0.apk",
