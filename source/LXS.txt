@@ -1,7 +1,7 @@
 【LxMusic_source】复制链接，在线导入音源
 https://raw.niuma666bet.buzz/Huibq/keep-alive/master/render_api.js
 https://fastly.jsdelivr.net/gh/Huibq/keep-alive/render_api.js
-https://gh.tryxd.cn/https://raw.githubusercontent.com/pdone/lx-music-source/main/flower/1.0.0.js
+https://gitee.com/yx-sy/Url/raw/master/source/lx-music-source.js
 https://gitee.com/yx-sy/Url/raw/master/source/yecao.js
 https://gitee.com/yx-sy/Url/raw/master/source/sixyin.js
 
