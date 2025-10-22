@@ -1,0 +1,28 @@
+{
+    "urls": [
+        {
+            "url": "https://www.饭太硬.com/tv",
+            "name": "🍚饭•线路"
+        }, 
+        {
+            "url": "https://tvv.tw/https://raw.githubusercontent.com/yx-sy/xyq/main/XYQTVBox.json",
+            "name": "💨香•线路"
+        },
+        {
+            "url": "https://肥猫.com",
+            "name": "🐼肥猫线路"
+        },
+        {
+            "url": "http://ok321.top/ok",
+            "name": "👌OK纯净线"
+        },
+        // {
+            "url": "http://ok321.top/tv",
+            "name": "👌OK弹幕线"
+        },
+        {
+            "url": "https://gitee.com/yx-sy/Url/raw/master/store.json",
+            "name": "🛍影视市场"
+        }
+    ]
+}
