@@ -1,7 +1,9 @@
 【LxMusic_source】复制链接，在线导入音源
-https://raw.niuma666bet.buzz/Huibq/keep-alive/master/render_api.js
+IKUN公益：https://api.ikunshare.com/script
+洛雪音源:https://gitee.com/yx-sy/Url/raw/master/source/lx-music-source.js
+澜音音源：https://source.shiqianjiang.cn/api/script/lx
+
 https://fastly.jsdelivr.net/gh/Huibq/keep-alive/render_api.js
-https://gitee.com/yx-sy/Url/raw/master/source/lx-music-source.js
 https://gitee.com/yx-sy/Url/raw/master/source/yecao.js
 https://gitee.com/yx-sy/Url/raw/master/source/sixyin.js
 
