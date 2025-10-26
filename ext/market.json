@@ -5,32 +5,32 @@
             {
                 "name": "电视_fm",
                 "url": "https://tvv.tw/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-arm64_v8a.apk",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_tv.png",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys-fm.png",
                 "version": "v8a"
             },
             {
                 "name": "手机_fm",
                 "url": "https://tvv.tw/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-arm64_v8a.apk",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_mobile.png",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys-fm.png",
                 "version": "v8a"
             },
             {
                 "name": "电视_ok",
                 "url": "https://tvv.tw/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/release/leanback-arm64_v8a.apk",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_tv.png",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys-ok.png",
                 "version": "v8a"
             },
             {
                 "name": "手机_ok",
                 "url": "https://tvv.tw/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/release/mobile-arm64_v8a.apk",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_mobile.png",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys-ok.png",
                 "version": "v8a"
             },
             {
                 "name": "TVBox_java",
-                "url": "https://tvv.tw/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20250513-1430/TVBox_q215613905_20250513-1430-java.apk",
+                "url": "https://tvv.tw/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20251015-2356/TVBox_q215613905_20251015-2356-java.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/tbq.png",
-                "version": "20250513-1430"
+                "version": "20251015-2356"
             }
         ]
     },
@@ -40,25 +40,25 @@
             {
                 "name": "电视",
                 "url": "https://tvv.tw/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-arm64_v8a.apk",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_tv.png",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys-fm.png",
                 "version": "v8a"
             },
             {
                 "name": "电视",
                 "url": "https://tvv.tw/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-armeabi_v7a.apk",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_tv.png",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys-fm.png",
                 "version": "v7a"
             },
             {
                 "name": "手机",
                 "url": "https://tvv.tw/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-arm64_v8a.apk",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_mobile.png",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys-fm.png",
                 "version": "v8a"
             },
             {
                 "name": "手机",
                 "url": "https://tvv.tw/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-armeabi_v7a.apk",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys_mobile.png",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys-fm.png",
                 "version": "v7a"
             }
         ]
@@ -69,37 +69,37 @@
             {
                 "name": "电视",
                 "url": "https://tvv.tw/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/release/leanback-arm64_v8a.apk",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_tv.png",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys-ok.png",
                 "version": "v8a"
             },
             {
                 "name": "电视",
                 "url": "https://tvv.tw/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/release/leanback-armeabi_v7a.apk",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_tv.png",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys-ok.png",
                 "version": "v7a"
             },
             {
                 "name": "电视",
                 "url": "https://tvv.tw/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/release/海信专版.apk",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_tv.png",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys-ok.png",
                 "version": "海信专版"
             },
             {
                 "name": "电视",
                 "url": "https://tvv.tw/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/release/电视版-X5离线.apk",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_tv.png",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys-ok.png",
                 "version": "X5离线版"
             },
             {
                 "name": "手机",
                 "url": "https://tvv.tw/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/release/mobile-arm64_v8a.apk",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_mobile.png",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys-ok.png",
                 "version": "v8a"
             },
             {
                 "name": "手机",
                 "url": "https://tvv.tw/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/release/mobile-armeabi_v7a.apk",
-                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/okys_mobile.png",
+                "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/ys-ok.png",
                 "version": "v7a"
             }
         ]
@@ -109,15 +109,15 @@
         "list": [
             {
                 "name": "java",
-                "url": "https://tvv.tw/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20250513-1430/TVBox_q215613905_20250513-1430-java.apk",
+                "url": "https://tvv.tw/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20251015-2356/TVBox_q215613905_20251015-2356-java.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/tbq.png",
-                "version": "20250513-1430"
+                "version": "20251015-2356"
             },
             {
                 "name": "python",
-                "url": "https://tvv.tw/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20250513-1430/TVBox_q215613905_20250513-1430-python.apk",
+                "url": "https://tvv.tw/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20251015-2356/TVBox_q215613905_20251015-2356-python.apk",
                 "icon": "https://gitee.com/yx-sy/imgnp/raw/main/cus/tbq.png",
-                "version": "20250513-1430"
+                "version": "20251015-2356"
             },
             {
                 "name": "v8a_generic",
